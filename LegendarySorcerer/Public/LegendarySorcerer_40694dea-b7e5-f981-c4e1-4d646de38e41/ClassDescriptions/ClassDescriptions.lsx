@@ -4,16 +4,17 @@
     <region id="ClassDescriptions">
         <node id="root">
             <children>
+				<!-- 主职业 -->
                 <node id="ClassDescription">
                     <attribute id="BaseHp" type="int32" value="8"/>
-                    <attribute id="CanLearnSpells" type="bool" value="false"/>
+					<attribute id="ClassEquipment" type="FixedString" value="EQP_CC_LegendarySorcerer"/>
+					<attribute id="CanLearnSpells" type="bool" value="false"/>
                     <attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8"/>
 					<!-- 
 					    EQP_CC_Sorcerer_StormSorcery 
 						这里是这个职业创建后背包里有什么东西
 						EQP_CC_Sorcerer_StormSorcery是对应的Equipment.txt这个文件里的new equipment "EQP_CC_Sorcerer_StormSorcery"
 					-->
-                    <attribute id="ClassEquipment" type="FixedString" value="EQP_CC_LegendarySorcery"/>
                     <attribute id="ClassHotbarColumns" type="int32" value="5"/>
                     <attribute id="CommonHotbarColumns" type="int32" value="9"/>
                     <attribute id="Description" type="TranslatedString" handle="h5afef65fg2046gdab1g2b3dgfc7d86ad67bd" version="2"/>
@@ -34,8 +35,10 @@
                     <attribute id="SpellList" type="guid" value="e5d5ef16-6d47-4a01-b915-1c265824b24c"/>
                     <attribute id="UUID" type="guid" value="f71d01d1-d699-4de2-b2af-a4468d42a41e"/>
                 </node>
+				<!-- 支援术士 -->
                 <node id="ClassDescription">
                     <attribute id="BaseHp" type="int32" value="10"/>
+					<attribute id="ClassEquipment" type="FixedString" value="EQP_CC_AidSorcerer"/>
                     <attribute id="CanLearnSpells" type="bool" value="false"/>
                     <attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8"/>
                     <attribute id="ClassHotbarColumns" type="int32" value="5"/>
@@ -56,9 +59,10 @@
                     <attribute id="SpellList" type="guid" value="e5d5ef16-6d47-4a01-b915-1c265824b24c"/>
                     <attribute id="UUID" type="guid" value="0a2f712d-e15b-45be-85b1-97f0efa73a00"/>
                 </node>
+				<!-- 战斗术士 -->
                 <node id="ClassDescription">
                     <attribute id="BaseHp" type="int32" value="20"/>
-					<attribute id="ClassEquipment" type="FixedString" value="EQP_CC_AttackSorcery"/>
+					<attribute id="ClassEquipment" type="FixedString" value="EQP_CC_AttackSorcerer"/>
 					<attribute id="CanLearnSpells" type="bool" value="false"/>
                     <attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8"/>
                     <attribute id="ClassHotbarColumns" type="int32" value="5"/>
@@ -79,9 +83,11 @@
                     <attribute id="SpellList" type="guid" value="e5d5ef16-6d47-4a01-b915-1c265824b24c"/>
                     <attribute id="UUID" type="guid" value="b1ee5b33-8dad-457e-baf1-78ade88f7024"/>
                 </node>
+				<!-- 特级术士 -->
                 <node id="ClassDescription">
                     <attribute id="BaseHp" type="int32" value="8"/>
-                    <attribute id="CanLearnSpells" type="bool" value="true"/>
+					<attribute id="ClassEquipment" type="FixedString" value="EQP_CC_CastSorcerer"/>
+					<attribute id="CanLearnSpells" type="bool" value="true"/>
                     <attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8"/>
                     <attribute id="ClassHotbarColumns" type="int32" value="5"/>
                     <attribute id="CommonHotbarColumns" type="int32" value="9"/>

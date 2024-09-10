@@ -1,38 +1,48 @@
-new equipment "EQP_CC_AttackSorcery"
+new equipment "EQP_CC_AttackSorcerer"
 add initialweaponset "Melee"
 add equipmentgroup
 add equipment entry "WPN_Quarterstaff_2"
 add equipmentgroup
-add equipment entry "OBJ_Potion_Healing"
+add equipment entry "ARM_AttackSorcerer"
 add equipmentgroup
-add equipment entry "OBJ_Potion_Healing"
+add equipment entry "ARM_Gloves_AttackSorcerer"
 add equipmentgroup
-add equipment entry "ARM_LegendarySorcerer"
+add equipment entry "ARM_Boots_AttackSorcerer"
 add equipmentgroup
-add equipment entry "ARM_LegendarySorcerer_Gloves"
+add equipment entry "ARM_Helmet_Metal_AttackSorcerer"
 add equipmentgroup
-add equipment entry "ARM_LegendarySorcerer_Boots"
-add equipmentgroup
-add equipment entry "ARM_Helmet_Metal_LegendarySorcerer"
-add equipmentgroup
-add equipment entry "MAG_LegendarySorcerer_Cloak"
-add equipmentgroup
-add equipment entry "ARM_Underwear_LegendarySorcerer"
-add equipmentgroup
-add equipment entry "ARM_Vanity_Body_Patriars_LegendarySorcerer"
-add equipmentgroup
-add equipment entry "ARM_Camp_Shoes_F_LegendarySorcerer"
+add equipment entry "MAG_Cloak_AttackSorcerer"
 
-new equipment "EQP_CC_CastSorcery"
+new equipment "EQP_CC_CastSorcerer"
 add initialweaponset "Melee"
 add equipmentgroup
 add equipment entry "OBJ_Scroll_Fireball"
+add equipmentgroup
+add equipment entry "OBJ_Scroll_ChromaticOrb"
+add equipmentgroup
+add equipment entry "ALCH_Solution_Elixir_Meditation"
 
-new equipment "EQP_CC_AidSorcery"
+new equipment "EQP_CC_AidSorcerer"
 add initialweaponset "Melee"
+add equipmentgroup
+add equipment entry "OBJ_Potion_Healing_Greater"
+add equipmentgroup
+add equipment entry "OBJ_Scroll_Revivify_TrueResurrection"
+add equipmentgroup
+add equipment entry "OBJ_Scroll_FalseLife"
 
-new equipment "EQP_CC_LegendarySorcery"
+new equipment "EQP_CC_LegendarySorcerer"
 add initialweaponset "Melee"
+add equipmentgroup
+add equipment entry "OBJ_Potion_Healing"
+add equipmentgroup
+add equipment entry "OBJ_Potion_Healing"
+add equipmentgroup
+add equipment entry "ARM_Underwear_LegendarySorcerer"
+add equipmentgroup
+add equipment entry "ARM_Camp_Patriars_A_LegendarySorcerer"
+add equipmentgroup
+add equipment entry "ARM_Camp_Shoes_F_LegendarySorcerer"
 add equipmentgroup
 add equipment entry "OBJ_GoldCoin"
 add equipmentgroup
