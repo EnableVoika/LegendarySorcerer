@@ -43,6 +43,14 @@ add equipmentgroup
 add equipment entry "ALCH_Solution_Elixir_Meditation"
 add equipmentgroup
 add equipment entry "MAG_Staff_CastSorcerer"
+add equipmentgroup
+add equipment entry "MAG_CastSorcerer_Robe"
+add equipmentgroup
+add equipment entry "ARM_LegendarySorcerer_Shoes_F"
+add equipmentgroup
+add equipment entry "MAG_CastSorcerer_Cloak"
+add equipmentgroup
+add equipment entry "MAG_CastSorcerer_Gloves"
 
 new equipment "EQP_CC_AidSorcerer"
 add initialweaponset "Melee"
@@ -62,6 +70,10 @@ add equipmentgroup
 add equipment entry "MAG_Primeval_Silver_LegendarySorcerer"
 add equipmentgroup
 add equipment entry "MAG_AidSorcerer_Armor"
+add equipmentgroup
+add equipment entry "ARM_LegendarySorcerer_Shoes_F"
+add equipmentgroup
+add equipment entry "MAG_AidSorcerer_Gloves"
 
 new equipment "EQP_CC_LegendarySorcerer"
 add initialweaponset "Melee"
