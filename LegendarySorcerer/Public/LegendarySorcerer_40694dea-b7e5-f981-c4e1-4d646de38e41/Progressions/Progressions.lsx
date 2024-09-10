@@ -56,15 +56,6 @@
                     <attribute id="Selectors" type="LSString" value="SelectSpells(7a9418c7-5934-4a20-bb50-110ca314b969,1,0)"/>
                     <attribute id="TableUUID" type="guid" value="7ea4e2a4-a654-42c1-940b-4caa78fd7978"/>
                     <attribute id="UUID" type="guid" value="ae58f7a5-85b4-47db-9f2f-8375b985491b"/>
-                    <children>
-                        <node id="SubClasses">
-                            <children>
-                                <node id="SubClass">
-                                    <attribute id="Object" type="guid" value="0a2f712d-e15b-45be-85b1-97f0efa73a00"/>
-                                </node>
-                            </children>
-                        </node>
-                    </children>
                 </node>
                 <node id="Progression">
                     <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,2,1);ActionResource(SpellSlot,1,2)"/>
