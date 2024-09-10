@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="7" revision="1" build="3"/>
+    <region id="ProgressionDescriptions">
+        <node id="root">
+            <children>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h732ddf85gecf3gabe3gf725gf8bbc1276e0e" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h85d22105g29d2gb6fcgf31fgc9fe3fbe5c30" version="1"/>
+                    <attribute id="SelectorId" type="FixedString" value="LingWu"/>
+                    <attribute id="UUID" type="guid" value="b0584ba7-c44c-4700-9a5a-437334d2b9e0"/>
+                </node>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="he67b8c32gaa35g4ec2g5239g19c66e191f9d" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hfa526ad2g0c23gfa99g248ega3cab8cc5dec" version="1"/>
+                    <attribute id="SelectorId" type="FixedString" value="ShouHuSpell"/>
+                    <attribute id="UUID" type="guid" value="811f23f3-a5b2-4602-9667-db83a228be80"/>
+                </node>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h8eca8e1eg47c7g1953g298cg7ab2d16b88f0" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h437e259egbf08g6d9fga769g9fc8ec968a68" version="1"/>
+                    <attribute id="SelectorId" type="FixedString" value="WuShiSpell"/>
+                    <attribute id="UUID" type="guid" value="8b13f41e-e73a-4fe6-ad20-9b59a9e1cfa5"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

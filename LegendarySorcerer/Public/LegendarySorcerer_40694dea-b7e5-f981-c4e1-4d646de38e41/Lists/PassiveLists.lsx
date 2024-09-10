@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="7" revision="1" build="3"/>
+    <region id="PassiveLists">
+        <node id="root">
+            <children>
+                <node id="PassiveList">
+                    <attribute id="Name" type="FixedString" value="AidSorcery_Level_Select_Passive"/>
+                    <attribute id="Passives" type="LSString" value="DiscipleOfLife,BlessedHealer,GiftOfTheEverLivingOnes,MAG_Aid_5_MaxHP_Passive,MAG_LC_Umberlee_Regeneration_Boots_Passive,MAG_PHB_OfRegeneration_Ring_Passive,MAG_Revivify_Gloves_Passive,MAG_Healer_TempHPOnHeal_Passive,MAG_Monk_Healed_TempHP_Passive,UND_Myco_Alchemist_HealerGloves_Passive,UND_SocietyOfBrilliance_PullingRing_Passive,UNI_MassHealRing_Passive"/>
+                    <attribute id="UUID" type="guid" value="8494d027-1468-439c-b243-1c40d81d4c71"/>
+                </node>
+                <node id="PassiveList">
+                    <attribute id="Name" type="FixedString" value="CastSorcery_Level_1_Select_Passive"/>
+                    <attribute id="Passives" type="LSString" value="CastSorcery_FireDamageEnhance_Passive,CastSorcery_ColdDamageEnhance_Passive,CastSorcery_PoisonDamageEnhance_Passive,CastSorcery_LightningDamageEnhance_Passive,CastSorcery_ThunderDamageEnhance_Passive,CastSorcery_AcidDamageEnhance_Passive,CastSorcery_NecroticDamageEnhance_Passive"/>
+                    <attribute id="UUID" type="guid" value="1042ff0d-61c3-47cb-ba32-55b9de8e370f"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

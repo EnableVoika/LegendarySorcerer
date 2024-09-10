@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="7" revision="1" build="3"/>
+    <region id="ClassDescriptions">
+        <node id="root">
+            <children>
+                <node id="ClassDescription">
+                    <attribute id="BaseHp" type="int32" value="8"/>
+                    <attribute id="CanLearnSpells" type="bool" value="false"/>
+                    <attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8"/>
+					<!-- 
+					    EQP_CC_Sorcerer_StormSorcery 
+						这里是这个职业创建后背包里有什么东西
+						EQP_CC_Sorcerer_StormSorcery是对应的Equipment.txt这个文件里的new equipment "EQP_CC_Sorcerer_StormSorcery"
+					-->
+                    <attribute id="ClassEquipment" type="FixedString" value="EQP_CC_LegendarySorcery"/>
+                    <attribute id="ClassHotbarColumns" type="int32" value="5"/>
+                    <attribute id="CommonHotbarColumns" type="int32" value="9"/>
+                    <attribute id="Description" type="TranslatedString" handle="h5afef65fg2046gdab1g2b3dgfc7d86ad67bd" version="2"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h8819d274gd785g4d0dg8069g010d8e5d10a9" version="2"/>
+                    <attribute id="HpPerLevel" type="int32" value="4"/>
+                    <attribute id="ItemsHotbarColumns" type="int32" value="2"/>
+                    <attribute id="LearningStrategy" type="uint8" value="1"/>
+                    <attribute id="MustPrepareSpells" type="bool" value="false"/>
+                    <attribute id="Name" type="FixedString" value="LegendarySorcery"/>
+					<!-- 意思是这个子职业以什么作为主要能力，就是属性界面加星号的那一个 -->
+					<!-- 1、力量，2、敏捷，3、体质，4、智力，5、感知，6、魅力 -->
+                    <attribute id="PrimaryAbility" type="uint8" value="6"/>
+                    <attribute id="ProgressionTableUUID" type="guid" value="7ea4e2a4-a654-42c1-940b-4caa78fd7978"/>
+                    <attribute id="ShortName" type="TranslatedString" handle="hf66dcb28g67e0gd0aagba92gc266ddb8159f" version="1"/>
+                    <attribute id="SoundClassType" type="FixedString" value="Sorcerer"/>
+					<!-- 施法能力，依靠什么施法，这里会把调整值加入进去，比如术士靠魅力，就会把魅力调整值加入进去 -->
+					<attribute id="SpellCastingAbility" type="uint8" value="6"/>
+                    <attribute id="SpellList" type="guid" value="e5d5ef16-6d47-4a01-b915-1c265824b24c"/>
+                    <attribute id="UUID" type="guid" value="f71d01d1-d699-4de2-b2af-a4468d42a41e"/>
+                </node>
+                <node id="ClassDescription">
+                    <attribute id="BaseHp" type="int32" value="10"/>
+                    <attribute id="CanLearnSpells" type="bool" value="false"/>
+                    <attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8"/>
+                    <attribute id="ClassHotbarColumns" type="int32" value="5"/>
+                    <attribute id="CommonHotbarColumns" type="int32" value="9"/>
+                    <attribute id="Description" type="TranslatedString" handle="h44ae914bg4c48g4392g9bd0g5eb8dd71629e" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hda5a0962ge735g76c2gad11gb07dd053ce24" version="1"/>
+                    <attribute id="HpPerLevel" type="int32" value="2"/>
+                    <attribute id="ItemsHotbarColumns" type="int32" value="2"/>
+                    <attribute id="LearningStrategy" type="uint8" value="1"/>
+                    <attribute id="MustPrepareSpells" type="bool" value="false"/>
+                    <attribute id="Name" type="FixedString" value="AidSorcery"/>
+                    <attribute id="ParentGuid" type="guid" value="f71d01d1-d699-4de2-b2af-a4468d42a41e"/>
+                    <attribute id="PrimaryAbility" type="uint8" value="6"/>
+                    <attribute id="ProgressionTableUUID" type="guid" value="fbbc6309-1fc7-4926-bdd6-8be1a8f80bc2"/>
+                    <attribute id="ShortName" type="TranslatedString" handle="h43ef3886g437ag7730gc1c3g56dbcdb5ffeb" version="1"/>
+                    <attribute id="SoundClassType" type="FixedString" value="Sorcerer"/>
+                    <attribute id="SpellCastingAbility" type="uint8" value="6"/>
+                    <attribute id="SpellList" type="guid" value="e5d5ef16-6d47-4a01-b915-1c265824b24c"/>
+                    <attribute id="UUID" type="guid" value="0a2f712d-e15b-45be-85b1-97f0efa73a00"/>
+                </node>
+                <node id="ClassDescription">
+                    <attribute id="BaseHp" type="int32" value="20"/>
+                    <attribute id="CanLearnSpells" type="bool" value="false"/>
+                    <attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8"/>
+                    <attribute id="ClassHotbarColumns" type="int32" value="5"/>
+                    <attribute id="CommonHotbarColumns" type="int32" value="9"/>
+                    <attribute id="Description" type="TranslatedString" handle="hb56fab83g3906g104cgf7fdg7c0e1413287b" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h40687844g9ff6gfc9ag034fg1fc92f704e16" version="1"/>
+                    <attribute id="HpPerLevel" type="int32" value="9"/>
+                    <attribute id="ItemsHotbarColumns" type="int32" value="2"/>
+                    <attribute id="LearningStrategy" type="uint8" value="1"/>
+                    <attribute id="MustPrepareSpells" type="bool" value="false"/>
+                    <attribute id="Name" type="FixedString" value="AttackSorcery"/>
+                    <attribute id="ParentGuid" type="guid" value="f71d01d1-d699-4de2-b2af-a4468d42a41e"/>
+                    <attribute id="PrimaryAbility" type="uint8" value="1"/>
+                    <attribute id="ProgressionTableUUID" type="guid" value="ed7d45a0-1a75-4067-8d73-b1c40e2329ee"/>
+                    <attribute id="ShortName" type="TranslatedString" handle="h86d7d10cg96a2ga4d9geb83g7ff573c491c9" version="1"/>
+                    <attribute id="SoundClassType" type="FixedString" value="Sorcerer"/>
+                    <attribute id="SpellCastingAbility" type="uint8" value="1"/>
+                    <attribute id="SpellList" type="guid" value="e5d5ef16-6d47-4a01-b915-1c265824b24c"/>
+                    <attribute id="UUID" type="guid" value="b1ee5b33-8dad-457e-baf1-78ade88f7024"/>
+                </node>
+                <node id="ClassDescription">
+                    <attribute id="BaseHp" type="int32" value="8"/>
+                    <attribute id="CanLearnSpells" type="bool" value="true"/>
+                    <attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8"/>
+                    <attribute id="ClassHotbarColumns" type="int32" value="5"/>
+                    <attribute id="CommonHotbarColumns" type="int32" value="9"/>
+                    <attribute id="Description" type="TranslatedString" handle="h7a6cfff7gaccagf621g1d2dgaa75c4afa739" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hbc239919g3eecgc758g8203g8bfddee7f9d8" version="1"/>
+                    <attribute id="HpPerLevel" type="int32" value="2"/>
+                    <attribute id="ItemsHotbarColumns" type="int32" value="2"/>
+                    <attribute id="LearningStrategy" type="uint8" value="1"/>
+                    <attribute id="MustPrepareSpells" type="bool" value="false"/>
+                    <attribute id="Name" type="FixedString" value="CastSorcery"/>
+                    <attribute id="ParentGuid" type="guid" value="f71d01d1-d699-4de2-b2af-a4468d42a41e"/>
+                    <attribute id="PrimaryAbility" type="uint8" value="6"/>
+                    <attribute id="ProgressionTableUUID" type="guid" value="00453202-a17f-4bad-85ed-17f61481f7d7"/>
+                    <attribute id="ShortName" type="TranslatedString" handle="h4be9f5fag2e1dgf5d0g3dc5gce99a42259c4" version="1"/>
+                    <attribute id="SoundClassType" type="FixedString" value="Sorcerer"/>
+                    <attribute id="SpellCastingAbility" type="uint8" value="6"/>
+                    <attribute id="SpellList" type="guid" value="e5d5ef16-6d47-4a01-b915-1c265824b24c"/>
+                    <attribute id="UUID" type="guid" value="18a6316c-9230-401f-9811-c4d130736370"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
