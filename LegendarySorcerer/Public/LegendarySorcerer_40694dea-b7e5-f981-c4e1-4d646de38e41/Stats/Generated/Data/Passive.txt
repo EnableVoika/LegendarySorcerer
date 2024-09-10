@@ -77,5 +77,5 @@ type "PassiveData"
 data "DisplayName" "h4e7d5d7dg2423g4509gb56eg0a49459c11ac;1"
 data "Description" "h29f169e0g65efgf352g0b3fg37d31c0f568f;1"
 data "DescriptionParams" "1"
-data "Boosts" "ActionResource(ActionPoint,1,0);ActionResource(BonusActionPoint,1,0);ActionResource(ReactionActionPoint,1,0)"
+data "Boosts" "ActionResource(ActionPoint,1,0);ActionResource(BonusActionPoint,1,0)"
 
