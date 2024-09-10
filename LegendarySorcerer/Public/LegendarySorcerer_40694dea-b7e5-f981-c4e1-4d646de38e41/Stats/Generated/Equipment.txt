@@ -1,4 +1,4 @@
-new equipment "EQP_CC_LegendarySorcery"
+new equipment "EQP_CC_AttackSorcery"
 add initialweaponset "Melee"
 add equipmentgroup
 add equipment entry "WPN_Quarterstaff_2"
@@ -22,8 +22,17 @@ add equipmentgroup
 add equipment entry "ARM_Vanity_Body_Patriars_LegendarySorcerer"
 add equipmentgroup
 add equipment entry "ARM_Camp_Shoes_F_LegendarySorcerer"
+
+new equipment "EQP_CC_CastSorcery"
+add initialweaponset "Melee"
 add equipmentgroup
 add equipment entry "OBJ_Scroll_Fireball"
+
+new equipment "EQP_CC_AidSorcery"
+add initialweaponset "Melee"
+
+new equipment "EQP_CC_LegendarySorcery"
+add initialweaponset "Melee"
 add equipmentgroup
 add equipment entry "OBJ_GoldCoin"
 add equipmentgroup

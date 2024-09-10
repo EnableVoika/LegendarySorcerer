@@ -5,7 +5,7 @@
         <node id="root">
             <children>
                 <node id="Progression">
-                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,1);Proficiency(LightArmor);Proficiency(Quarterstaffs)"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,1);Proficiency(LightArmor);Proficiency(Quarterstaffs);ProficiencyBonus(SavingThrow,Constitution);ProficiencyBonus(SavingThrow,Charisma);Proficiency(Daggers);Proficiency(LightCrossbows)"/>
                     <attribute id="Level" type="uint8" value="1"/>
                     <attribute id="Name" type="LSString" value="LegendarySorcery"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
