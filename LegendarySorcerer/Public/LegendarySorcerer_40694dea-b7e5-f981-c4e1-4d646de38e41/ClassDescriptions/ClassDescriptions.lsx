@@ -7,6 +7,7 @@
 				<!-- 主职业 -->
                 <node id="ClassDescription">
                     <attribute id="BaseHp" type="int32" value="8"/>
+					<!-- 如果子职业有自己的装备，那主职业的不会生效 --> 
 					<attribute id="ClassEquipment" type="FixedString" value="EQP_CC_LegendarySorcerer"/>
 					<attribute id="CanLearnSpells" type="bool" value="false"/>
                     <attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8"/>
