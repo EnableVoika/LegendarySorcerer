@@ -22,3 +22,1005 @@ add equipmentgroup
 add equipment entry "ARM_Vanity_Body_Patriars_LegendarySorcerer"
 add equipmentgroup
 add equipment entry "ARM_Camp_Shoes_F_LegendarySorcerer"
+add equipmentgroup
+add equipment entry "OBJ_Scroll_Fireball"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
+add equipmentgroup
+add equipment entry "OBJ_GoldCoin"
