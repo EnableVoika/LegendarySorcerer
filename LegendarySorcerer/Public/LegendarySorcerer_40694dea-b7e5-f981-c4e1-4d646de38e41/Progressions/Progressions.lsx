@@ -53,7 +53,6 @@
                     <attribute id="Level" type="uint8" value="2"/>
                     <attribute id="Name" type="LSString" value="LegendarySorcery"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
-                    <attribute id="Selectors" type="LSString" value="SelectSpells(7a9418c7-5934-4a20-bb50-110ca314b969,1,0)"/>
                     <attribute id="TableUUID" type="guid" value="7ea4e2a4-a654-42c1-940b-4caa78fd7978"/>
                     <attribute id="UUID" type="guid" value="ae58f7a5-85b4-47db-9f2f-8375b985491b"/>
                 </node>
@@ -67,7 +66,7 @@
                     <attribute id="UUID" type="guid" value="d3a99592-ece7-4ad3-98bf-16bc6f5573fd"/>
                 </node>
                 <node id="Progression">
-                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,1);ActionResource(SpellSlot,1,2)"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,2)"/>
                     <attribute id="IsMulticlass" type="bool" value="true"/>
                     <attribute id="Level" type="uint8" value="3"/>
                     <attribute id="Name" type="LSString" value="LegendarySorcery"/>
@@ -88,12 +87,10 @@
                 </node>
                 <node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="true"/>
-                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,2)"/>
                     <attribute id="IsMulticlass" type="bool" value="true"/>
                     <attribute id="Level" type="uint8" value="4"/>
                     <attribute id="Name" type="LSString" value="LegendarySorcery"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
-                    <attribute id="Selectors" type="LSString" value="SelectSpells(fccb0d2c-5d6e-450f-9365-e6fc7fc79a8c,1,0)"/>
                     <attribute id="TableUUID" type="guid" value="7ea4e2a4-a654-42c1-940b-4caa78fd7978"/>
                     <attribute id="UUID" type="guid" value="aa10488f-69dc-4991-be46-e133f9165340"/>
                 </node>
@@ -112,7 +109,7 @@
                     <attribute id="Level" type="uint8" value="5"/>
                     <attribute id="Name" type="LSString" value="LegendarySorcery"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
-                    <attribute id="Selectors" type="LSString" value="SelectSpells(5e49b104-7ebe-4461-a9fb-e0b716f01202,1,0)"/>
+					<attribute id="Selectors" type="LSString" value="SelectSpells(5e49b104-7ebe-4461-a9fb-e0b716f01202,1,0)"/>
                     <attribute id="TableUUID" type="guid" value="7ea4e2a4-a654-42c1-940b-4caa78fd7978"/>
                     <attribute id="UUID" type="guid" value="6ad1fd9d-b736-4e6b-bbed-894653e4f026"/>
                 </node>
@@ -126,12 +123,10 @@
                     <attribute id="UUID" type="guid" value="3214876d-98d7-441e-b500-c52c55f370f5"/>
                 </node>
                 <node id="Progression">
-                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,3)"/>
                     <attribute id="IsMulticlass" type="bool" value="true"/>
                     <attribute id="Level" type="uint8" value="6"/>
                     <attribute id="Name" type="LSString" value="LegendarySorcery"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
-                    <attribute id="Selectors" type="LSString" value="SelectSpells(01497099-5540-4d3c-9e63-09b481313d4d,2,0,,,,AlwaysPrepared);SelectSpells(5e49b104-7ebe-4461-a9fb-e0b716f01202,1,0)"/>
                     <attribute id="TableUUID" type="guid" value="7ea4e2a4-a654-42c1-940b-4caa78fd7978"/>
                     <attribute id="UUID" type="guid" value="547472a1-4f7f-4976-8fc6-ddd531d26471"/>
                 </node>
@@ -150,8 +145,8 @@
                     <attribute id="Level" type="uint8" value="7"/>
                     <attribute id="Name" type="LSString" value="LegendarySorcery"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
-                    <attribute id="Selectors" type="LSString" value="SelectSpells(3105b225-2c85-408b-968e-3784b394d796,1,0)"/>
-                    <attribute id="TableUUID" type="guid" value="7ea4e2a4-a654-42c1-940b-4caa78fd7978"/>
+					<attribute id="Selectors" type="LSString" value="SelectSpells(01497099-5540-4d3c-9e63-09b481313d4d,1,0,,,,AlwaysPrepared);SelectSpells(3105b225-2c85-408b-968e-3784b394d796,1,0)"/>
+					<attribute id="TableUUID" type="guid" value="7ea4e2a4-a654-42c1-940b-4caa78fd7978"/>
                     <attribute id="UUID" type="guid" value="816376a3-ccdd-4ecf-a0c7-198ac5518062"/>
                 </node>
                 <node id="Progression">
@@ -166,12 +161,10 @@
                 </node>
                 <node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="true"/>
-                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,4)"/>
                     <attribute id="IsMulticlass" type="bool" value="true"/>
                     <attribute id="Level" type="uint8" value="8"/>
                     <attribute id="Name" type="LSString" value="LegendarySorcery"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
-                    <attribute id="Selectors" type="LSString" value="SelectSpells(3105b225-2c85-408b-968e-3784b394d796,1,0)"/>
                     <attribute id="TableUUID" type="guid" value="7ea4e2a4-a654-42c1-940b-4caa78fd7978"/>
                     <attribute id="UUID" type="guid" value="949a8e11-ba9f-48db-ac81-5d8ad018aad9"/>
                 </node>
@@ -185,12 +178,10 @@
                     <attribute id="UUID" type="guid" value="2f74c02b-f81a-4858-9bee-8297985b5b34"/>
                 </node>
                 <node id="Progression">
-                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,5)"/>
                     <attribute id="IsMulticlass" type="bool" value="true"/>
                     <attribute id="Level" type="uint8" value="9"/>
                     <attribute id="Name" type="LSString" value="LegendarySorcery"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
-                    <attribute id="Selectors" type="LSString" value="SelectSpells(ccaa63ca-20ca-44e4-aa0e-dbd97c99fc21,1,0)"/>
                     <attribute id="TableUUID" type="guid" value="7ea4e2a4-a654-42c1-940b-4caa78fd7978"/>
                     <attribute id="UUID" type="guid" value="b25ca313-62fa-4b70-ae24-39e0790b09d1"/>
                 </node>
@@ -208,7 +199,6 @@
                     <attribute id="Level" type="uint8" value="10"/>
                     <attribute id="Name" type="LSString" value="LegendarySorcery"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
-                    <attribute id="Selectors" type="LSString" value="SelectSpells(ccaa63ca-20ca-44e4-aa0e-dbd97c99fc21,1,0)"/>
                     <attribute id="TableUUID" type="guid" value="7ea4e2a4-a654-42c1-940b-4caa78fd7978"/>
                     <attribute id="UUID" type="guid" value="1b59a5f9-ff95-43e8-9080-36e4a26e31cd"/>
                 </node>
@@ -224,12 +214,10 @@
                 </node>
                 <node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="true"/>
-                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,6)"/>
                     <attribute id="IsMulticlass" type="bool" value="true"/>
                     <attribute id="Level" type="uint8" value="11"/>
                     <attribute id="Name" type="LSString" value="LegendarySorcery"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
-                    <attribute id="Selectors" type="LSString" value="SelectSpells(73269cc5-f9ae-4e26-888a-b732c2018560,1,0)"/>
                     <attribute id="TableUUID" type="guid" value="7ea4e2a4-a654-42c1-940b-4caa78fd7978"/>
                     <attribute id="UUID" type="guid" value="51011c94-7f67-43a1-b2f2-563e7ebcce7a"/>
                 </node>
@@ -247,7 +235,6 @@
                     <attribute id="Level" type="uint8" value="12"/>
                     <attribute id="Name" type="LSString" value="LegendarySorcery"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
-                    <attribute id="Selectors" type="LSString" value="SelectSpells(01497099-5540-4d3c-9e63-09b481313d4d,2,0,,,,AlwaysPrepared);SelectSpells(73269cc5-f9ae-4e26-888a-b732c2018560,1,0)"/>
                     <attribute id="TableUUID" type="guid" value="7ea4e2a4-a654-42c1-940b-4caa78fd7978"/>
                     <attribute id="UUID" type="guid" value="fb2b3c6c-35b5-4580-8d78-a6381ab138d3"/>
                 </node>
@@ -260,7 +247,6 @@
                     <attribute id="UUID" type="guid" value="1fdf9b32-faab-4e07-8d3e-a92aefb9edc8"/>
                 </node>
                 <node id="Progression">
-                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,7)"/>
                     <attribute id="IsMulticlass" type="bool" value="true"/>
                     <attribute id="Level" type="uint8" value="13"/>
                     <attribute id="Name" type="LSString" value="LegendarySorcery"/>
@@ -295,7 +281,6 @@
                 </node>
                 <node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="true"/>
-                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,8)"/>
                     <attribute id="IsMulticlass" type="bool" value="true"/>
                     <attribute id="Level" type="uint8" value="15"/>
                     <attribute id="Name" type="LSString" value="LegendarySorcery"/>
