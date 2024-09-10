@@ -35,6 +35,11 @@
 					<attribute id="SpellCastingAbility" type="uint8" value="6"/>
                     <attribute id="SpellList" type="guid" value="e5d5ef16-6d47-4a01-b915-1c265824b24c"/>
                     <attribute id="UUID" type="guid" value="f71d01d1-d699-4de2-b2af-a4468d42a41e"/>
+					<children>
+						<node id="Tags">
+							<attribute id="Object" type="guid" value="6e34daa0-ff3b-4074-916d-7649fc223b85"/>
+						</node>
+					</children>
                 </node>
 				<!-- 支援术士 -->
                 <node id="ClassDescription">
