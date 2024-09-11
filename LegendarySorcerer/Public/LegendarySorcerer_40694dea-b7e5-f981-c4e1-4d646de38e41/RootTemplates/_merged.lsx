@@ -1923,7 +1923,6 @@
 						</node>
 					</children>
 				</node>
-				<!-- 支援术士护甲 -->
 				<!-- 术士长剑 -->
 				<node id="GameObjects">
 					<attribute id="Description" type="TranslatedString" handle="h8b1c4cd5gf813g4de9ga743g1226d33ee2ac" version="1" />
@@ -1971,41 +1970,6 @@
 					<attribute id="Stats" type="FixedString" value="MAG_Staff_CastSorcerer" />
 					<attribute id="Type" type="FixedString" value="item" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209023" />
-					<children>
-						<node id="OnUsePeaceActions">
-							<children>
-								<node id="Action">
-									<attribute id="ActionType" type="int32" value="7" />
-									<children>
-										<node id="Attributes">
-											<attribute id="Animation" type="FixedString" value="06346da5-2ed5-4af1-b803-4066a505e662" />
-											<attribute id="Conditions" type="LSString" value="Tagged('REALLY_GALE', context.Source) and not Tagged('ORI_GALE_DONEWITHITEMS', context.Source)" />
-											<attribute id="Consume" type="bool" value="True" />
-											<attribute id="StatsId" type="FixedString" value="ORI_GALE_AVATAR_CONSUMEITEM" />
-											<attribute id="StatusDuration" type="int32" value="0" />
-										</node>
-									</children>
-								</node>
-							</children>
-						</node>
-						<node id="StatusList">
-							<children>
-								<node id="Status">
-									<attribute id="Object" type="FixedString" value="MAG_FROST_FROST_WEAPON" />
-								</node>
-							</children>
-						</node>
-						<node id="Tags">
-							<children>
-								<node id="Tag">
-									<attribute id="Object" type="guid" value="7b96246c-54ba-43ea-b01d-4e0b20ad35f1" />
-								</node>
-								<node id="Tag">
-									<attribute id="Object" type="guid" value="983087c8-c9d3-4a87-bc69-65f9329666c8" />
-								</node>
-							</children>
-						</node>
-					</children>
 				</node>
 				<!-- 支援术士护甲 -->
 				<node id="GameObjects">

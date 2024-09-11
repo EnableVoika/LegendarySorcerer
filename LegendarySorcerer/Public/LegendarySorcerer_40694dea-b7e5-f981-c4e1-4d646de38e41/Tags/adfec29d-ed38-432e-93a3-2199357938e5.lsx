@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="0" build="58" lslib_meta="v1,bswap_guids,lsf_keys_adjacency" />
+	<region id="Tags">
+		<!-- 对支援术士主职业的标签描述 -->
+		<node id="Tags">
+			<attribute id="Description" type="LSString" value="在战场上为团队提供辅助支援的术士。" />
+			<attribute id="DisplayDescription" type="TranslatedString" handle="ha96109deg6fd3g4b3ega9f4ga93f4b47735d" version="1" />
+			<attribute id="DisplayName" type="TranslatedString" handle="h513fc5e1g2029g4299gaa37g7fe349da94ed" version="1" />
+			<attribute id="Icon" type="FixedString" value="" />
+			<attribute id="Name" type="FixedString" value="AIDSORCERER" />
+			<attribute id="UUID" type="guid" value="adfec29d-ed38-432e-93a3-2199357938e5" />
+			<children>
+				<node id="Categories">
+					<children>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Code" />
+						</node>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Dialog" />
+						</node>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Class" />
+						</node>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="CharacterSheet" />
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

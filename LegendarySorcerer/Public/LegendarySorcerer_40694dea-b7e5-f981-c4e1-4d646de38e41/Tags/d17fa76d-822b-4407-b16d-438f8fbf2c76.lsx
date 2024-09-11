@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="0" build="58" lslib_meta="v1,bswap_guids,lsf_keys_adjacency" />
+	<region id="Tags">
+		<!-- 对传奇术士主职业的标签描述 -->
+		<node id="Tags">
+			<attribute id="Description" type="LSString" value="有着出色的施法能力的特级术士。" />
+			<attribute id="DisplayDescription" type="TranslatedString" handle="h457fc563g4776g4c16ga10cgd78e295deea7" version="1" />
+			<attribute id="DisplayName" type="TranslatedString" handle="h31ccf9b8g421dg4d15g9f8cge53113e78dba" version="1" />
+			<attribute id="Icon" type="FixedString" value="" />
+			<attribute id="Name" type="FixedString" value="CASTSORCERER" />
+			<attribute id="UUID" type="guid" value="d17fa76d-822b-4407-b16d-438f8fbf2c76" />
+			<children>
+				<node id="Categories">
+					<children>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Code" />
+						</node>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Dialog" />
+						</node>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Class" />
+						</node>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="CharacterSheet" />
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>
