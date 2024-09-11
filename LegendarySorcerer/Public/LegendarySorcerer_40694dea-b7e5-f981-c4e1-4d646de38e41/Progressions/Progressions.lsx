@@ -363,7 +363,7 @@
 					<attribute id="Level" type="uint8" value="1"/>
 					<attribute id="Name" type="LSString" value="AidSorcery"/>
 					<attribute id="ProgressionType" type="uint8" value="1"/>
-					<attribute id="Selectors" type="LSString" value="SelectPassives(8494d027-1468-439c-b243-1c40d81d4c71,3,LingWu);SelectSpells(58f8006a-f37a-4f5a-a014-3d614c8a7e5a,2,0,,,,AlwaysPrepared);SelectSpells(269d1a3b-eed8-4131-8901-a562238f5289,2,0);AddSpells(e0e6f366-bb8d-4af3-b66a-c8db2d0ebf01)"/>
+					<attribute id="Selectors" type="LSString" value="SelectPassives(8494d027-1468-439c-b243-1c40d81d4c71,1,LingWu);SelectSpells(58f8006a-f37a-4f5a-a014-3d614c8a7e5a,2,0,,,,AlwaysPrepared);SelectSpells(269d1a3b-eed8-4131-8901-a562238f5289,2,0);AddSpells(e0e6f366-bb8d-4af3-b66a-c8db2d0ebf01)"/>
 					<attribute id="TableUUID" type="guid" value="fbbc6309-1fc7-4926-bdd6-8be1a8f80bc2"/>
 					<attribute id="UUID" type="guid" value="74c228c8-13fb-43e2-be3b-4a9f31799f16"/>
 				</node>
@@ -379,7 +379,7 @@
                     <attribute id="Level" type="uint8" value="3"/>
                     <attribute id="Name" type="LSString" value="AidSorcery"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="Selectors" type="LSString" value="SelectSpells(7a2d9d6d-a39a-43c8-99ab-a37b9126bde0,2,0)"/>
+                    <attribute id="Selectors" type="LSString" value="SelectPassives(8494d027-1468-439c-b243-1c40d81d4c71,1,LingWu);SelectSpells(7a2d9d6d-a39a-43c8-99ab-a37b9126bde0,2,0)"/>
                     <attribute id="TableUUID" type="guid" value="fbbc6309-1fc7-4926-bdd6-8be1a8f80bc2"/>
                     <attribute id="UUID" type="guid" value="76425eca-4d6c-4ea2-abad-dcd6da7d2cb4"/>
                 </node>
@@ -394,7 +394,7 @@
                     <attribute id="Level" type="uint8" value="5"/>
                     <attribute id="Name" type="LSString" value="AidSorcery"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="Selectors" type="LSString" value="SelectSpells(7a2d9d6d-a39a-43c8-99ab-a37b9126bde0,2,0)"/>
+                    <attribute id="Selectors" type="LSString" value="SelectPassives(8494d027-1468-439c-b243-1c40d81d4c71,1,LingWu);SelectSpells(7a2d9d6d-a39a-43c8-99ab-a37b9126bde0,2,0)"/>
                     <attribute id="TableUUID" type="guid" value="fbbc6309-1fc7-4926-bdd6-8be1a8f80bc2"/>
                     <attribute id="UUID" type="guid" value="b896a0a6-e5ca-4e50-bb40-baf7122e71f4"/>
                 </node>
