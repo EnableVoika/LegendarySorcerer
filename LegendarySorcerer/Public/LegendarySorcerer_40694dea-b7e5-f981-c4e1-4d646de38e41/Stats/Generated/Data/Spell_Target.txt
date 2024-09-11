@@ -8,6 +8,7 @@ data "DisplayName" "h7305c2edgc667g35a7g5c4cg9ff97216b68a;1"
 data "Description" "hf4911d54g3b18g9bc4g7e4fg53695b46b6a8;1"
 data "CycleConditions" "(Item() or Ally()) and not Dead()"
 data "PowerLevel" "1"
+data "TooltipPermanentWarnings" "65dada09-a9e2-4b62-b95e-5e417db5ee2b"
 
 new entry "Target_War_CureWounds_2"
 type "SpellData"

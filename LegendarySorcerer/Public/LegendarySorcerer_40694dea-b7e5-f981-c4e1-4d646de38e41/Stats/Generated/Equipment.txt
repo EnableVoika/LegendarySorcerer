@@ -32,15 +32,15 @@ add equipment entry "OBJ_Potion_Healing"
 add equipmentgroup
 add equipment entry "OBJ_Potion_Healing"
 add equipmentgroup
+add equipment entry "OBJ_Scroll_ChromaticOrb"
+add equipmentgroup
+add equipment entry "ALCH_Solution_Elixir_Meditation"
+add equipmentgroup
 add equipment entry "ARM_Underwear_LegendarySorcerer"
 add equipmentgroup
 add equipment entry "ARM_Camp_Patriars_A_LegendarySorcerer"
 add equipmentgroup
 add equipment entry "ARM_Camp_Shoes_F_LegendarySorcerer"
-add equipmentgroup
-add equipment entry "OBJ_Scroll_ChromaticOrb"
-add equipmentgroup
-add equipment entry "ALCH_Solution_Elixir_Meditation"
 add equipmentgroup
 add equipment entry "MAG_Staff_CastSorcerer"
 add equipmentgroup
@@ -55,15 +55,19 @@ add equipment entry "MAG_CastSorcerer_Gloves"
 new equipment "EQP_CC_AidSorcerer"
 add initialweaponset "Melee"
 add equipmentgroup
+add equipment entry "OBJ_Potion_Healing_Greater"
+add equipmentgroup
+add equipment entry "OBJ_Potion_Healing_Greater"
+add equipmentgroup
+add equipment entry "OBJ_Scroll_Revivify_TrueResurrection"
+add equipmentgroup
+add equipment entry "OBJ_Scroll_Revivify_TrueResurrection"
+add equipmentgroup
 add equipment entry "ARM_Underwear_LegendarySorcerer"
 add equipmentgroup
 add equipment entry "ARM_Camp_Patriars_A_LegendarySorcerer"
 add equipmentgroup
 add equipment entry "ARM_Camp_Shoes_F_LegendarySorcerer"
-add equipmentgroup
-add equipment entry "OBJ_Potion_Healing_Greater"
-add equipmentgroup
-add equipment entry "OBJ_Scroll_Revivify_TrueResurrection"
 add equipmentgroup
 add equipment entry "OBJ_Scroll_FalseLife"
 add equipmentgroup
