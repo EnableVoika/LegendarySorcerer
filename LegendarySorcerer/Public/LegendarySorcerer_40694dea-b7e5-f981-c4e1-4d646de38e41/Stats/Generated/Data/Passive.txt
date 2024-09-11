@@ -79,3 +79,13 @@ data "Description" "h29f169e0g65efgf352g0b3fg37d31c0f568f;1"
 data "DescriptionParams" "1"
 data "Boosts" "ActionResource(ActionPoint,1,0);ActionResource(BonusActionPoint,1,0)"
 
+new entry "MAG_LegendarySorcerer_LongWords_NoProficiency"
+type "PassiveData"
+data "DisplayName" "hb84fbf40g2cf2g4c17ga397g3b545cb67590;1"
+data "Description" "hb1bc4e5agafa5g4e00g8089g1766e5827c43;1"
+data "DescriptionParams" ""
+data "TooltipConditionalDamage" ""
+data "BoostContext" "OnCreate"
+data "BoostConditions" "Tagged('LEGENDARYSORCERER', context.Source)"
+data "Boosts" "Proficiency(Longswords)"
+

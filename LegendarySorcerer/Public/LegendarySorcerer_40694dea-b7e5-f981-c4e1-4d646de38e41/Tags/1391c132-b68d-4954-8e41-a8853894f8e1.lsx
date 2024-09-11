@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="0" build="58" lslib_meta="v1,bswap_guids,lsf_keys_adjacency" />
+	<region id="Tags">
+		<!-- 对传奇术士主职业的标签描述 -->
+		<node id="Tags">
+			<attribute id="Description" type="LSString" value="一类曾在费伦大陆闻名又神秘的术士，他们平日的踪迹鲜为人知，但总会在最危险的时候挺身而出。" />
+			<attribute id="DisplayDescription" type="TranslatedString" handle="h32dea314gad96g403dgb500gb705a4ad347c" version="1" />
+			<attribute id="DisplayName" type="TranslatedString" handle="h3aa86c1cgb5e3g4bfegab79g0731ec098fb8" version="1" />
+			<attribute id="Icon" type="FixedString" value="" />
+			<attribute id="Name" type="FixedString" value="LEGENDARYSORCERER" />
+			<attribute id="UUID" type="guid" value="1391c132-b68d-4954-8e41-a8853894f8e1" />
+			<children>
+				<node id="Categories">
+					<children>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Code" />
+						</node>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Dialog" />
+						</node>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Class" />
+						</node>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="CharacterSheet" />
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

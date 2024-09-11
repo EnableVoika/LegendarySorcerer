@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="0" build="58" lslib_meta="v1,bswap_guids,lsf_keys_adjacency" />
+	<region id="Tags">
+		<!-- 对传奇术士长剑的标签描述 -->
+		<node id="Tags">
+			<attribute id="Description" type="LSString" value="传奇术士长剑，用于扩展标签。" />
+			<attribute id="DisplayDescription" type="TranslatedString" handle="h373f8f2fg6b39g4266g8a01ga546f45e76c1" version="1" />
+			<attribute id="DisplayName" type="TranslatedString" handle="h5decbd7cg24fdg46c9g8ba8gba9e72168450" version="1" />
+			<attribute id="Icon" type="FixedString" value="" />
+			<attribute id="Name" type="FixedString" value="LEGENDARYSORCERER_LONGWORDS" />
+			<attribute id="UUID" type="guid" value="28b438af-814c-48ca-a774-8c4568ae24c8" />
+			<children>
+				<node id="Categories" />
+			</children>
+		</node>
+	</region>
+</save>

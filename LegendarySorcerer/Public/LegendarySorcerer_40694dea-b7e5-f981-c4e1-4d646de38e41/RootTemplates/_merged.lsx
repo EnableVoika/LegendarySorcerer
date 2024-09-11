@@ -1938,7 +1938,7 @@
 					<attribute id="VisualTemplate" type="FixedString" value="5f9832fa-7633-5e68-b69c-0156eda17471" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144818875517632512" />
 					<children>
-						<node id="StatusList">
+						<!--<node id="StatusList">
 							<children>
 								<node id="Status">
 									<attribute id="Object" type="FixedString" value="MAG_GITHYANKI_PSYCHIC_DAMAGE" />
@@ -1947,11 +1947,11 @@
 									<attribute id="Object" type="FixedString" value="MAG_PLANE_SHIFTER_SLAYER_BLESS" />
 								</node>
 							</children>
-						</node>
+						</node>-->
 						<node id="Tags">
 							<children>
 								<node id="Tag">
-									<attribute id="Object" type="guid" value="983087c8-c9d3-4a87-bc69-65f9329666c8" />
+									<attribute id="Object" type="guid" value="28b438af-814c-48ca-a774-8c4568ae24c8" />
 								</node>
 							</children>
 						</node>

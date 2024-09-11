@@ -1,7 +1,9 @@
 <?xml version="1.0"?>
 <contentList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <content contentuid="h8819d274gd785g4d0dg8069g010d8e5d10a9" version="2">传奇术士</content>
+  <content contentuid="h3aa86c1cgb5e3g4bfegab79g0731ec098fb8" version="1">传奇术士</content>
   <content contentuid="h5afef65fg2046gdab1g2b3dgfc7d86ad67bd" version="2">一类曾在费伦大陆闻名又神秘的术士，他们平日的踪迹鲜为人知，但总会在最危险的时候挺身而出。</content>
+  <content contentuid="h32dea314gad96g403dgb500gb705a4ad347c" version="1">一类曾在费伦大陆闻名又神秘的术士，他们平日的踪迹鲜为人知，但总会在最危险的时候挺身而出。</content>
   <content contentuid="h135eb33eg1ad2g05e0g7c74g1e8ffcf648bd" version="1">支援术士</content>
   <content contentuid="hee1ae171gfd9bgffacg11a4g5b313bcbbfd3" version="1">在战斗中能够为团队提供辅助支援</content>
   <content contentuid="hda5a0962ge735g76c2gad11gb07dd053ce24" version="1">支援术士</content>
@@ -84,4 +86,8 @@
   <content contentuid="hea8f8060g5ebeg461fga5aegdd55d7fcfffa" version="1">手套十分轻盈，同时又具有很好的保护效果。</content>
   <content contentuid="heaabcde4geeb4g4ebbgbad9gbca0439c16ee" version="1">神秘手套</content>
   <content contentuid="h89941ca4g98deg4ba6g82b5g9abd6c250317" version="1">一个潜力十分强大的手套，只是一般人无法感受到它里面蕴含的魔力。</content>
+  <content contentuid="hb84fbf40g2cf2g4c17ga397g3b545cb67590" version="1">传奇术士之剑</content>
+  <content contentuid="hb1bc4e5agafa5g4e00g8089g1766e5827c43" version="1">传奇术士使用此剑无需熟练项</content>
+  <content contentuid="h5decbd7cg24fdg46c9g8ba8gba9e72168450" version="1">传奇术士长剑</content>
+  <content contentuid="h373f8f2fg6b39g4266g8a01ga546f45e76c1" version="1">传奇术士可以灵活自如地使用此剑。</content>
 </contentList>
