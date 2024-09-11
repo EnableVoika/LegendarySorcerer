@@ -5,7 +5,7 @@
         <node id="root">
             <children>
                 <node id="Progression">
-                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,1);Proficiency(LightArmor);Proficiency(Quarterstaffs);ProficiencyBonus(SavingThrow,Constitution);ProficiencyBonus(SavingThrow,Charisma);Proficiency(Daggers);Proficiency(LightCrossbows)"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,2,1);Proficiency(LightArmor);Proficiency(Quarterstaffs);ProficiencyBonus(SavingThrow,Constitution);ProficiencyBonus(SavingThrow,Charisma);Proficiency(Daggers);Proficiency(LightCrossbows)"/>
                     <attribute id="Level" type="uint8" value="1"/>
                     <attribute id="Name" type="LSString" value="LegendarySorcery"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
@@ -38,8 +38,9 @@
                     <attribute id="TableUUID" type="guid" value="7ea4e2a4-a654-42c1-940b-4caa78fd7978"/>
                     <attribute id="UUID" type="guid" value="ff14f7d0-c74b-4eea-bcde-8108c869852d"/>
                 </node>
+				<!-- 魅力+2，和术士对齐 -->
                 <node id="Progression">
-                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,1)"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,1);Ability(Charisma,2)"/>
                     <attribute id="Level" type="uint8" value="2"/>
                     <attribute id="Name" type="LSString" value="LegendarySorcery"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
@@ -57,7 +58,7 @@
                     <attribute id="UUID" type="guid" value="ae58f7a5-85b4-47db-9f2f-8375b985491b"/>
                 </node>
                 <node id="Progression">
-                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,2,1);ActionResource(SpellSlot,1,2)"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,1);ActionResource(SpellSlot,2,2)"/>
                     <attribute id="Level" type="uint8" value="3"/>
                     <attribute id="Name" type="LSString" value="LegendarySorcery"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
@@ -77,7 +78,6 @@
                 </node>
                 <node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="true"/>
-                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,2)"/>
                     <attribute id="Level" type="uint8" value="4"/>
                     <attribute id="Name" type="LSString" value="LegendarySorcery"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>

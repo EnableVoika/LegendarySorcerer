@@ -87,5 +87,5 @@ data "DescriptionParams" ""
 data "TooltipConditionalDamage" ""
 data "BoostContext" "OnCreate"
 data "BoostConditions" "Tagged('LEGENDARYSORCERER', context.Source)"
-data "Boosts" "Proficiency(Longswords);DamageBonus(max(StrengthModifier,CharismaModifier)+1)"
+data "Boosts" "Proficiency(Longswords);IF(MainDamageTypeIs(DamageType.Slashing)):DamageBonus(max(StrengthModifier,CharismaModifier)+1)"
 
