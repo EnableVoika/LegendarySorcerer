@@ -662,6 +662,7 @@
 					<attribute id="Name" type="LSString" value="AttackSorcery"/>
 					<attribute id="ProgressionType" type="uint8" value="1"/>
 					<attribute id="Selectors" type="LSString" value="AddSpells(bfe6d470-9914-4b6a-9516-675f00cbfa37)"/>
+					<attribute id="PassivesAdded" type="LSString" value="ClassPassive_Tough_AttackSorcerer" />
 					<attribute id="TableUUID" type="guid" value="ed7d45a0-1a75-4067-8d73-b1c40e2329ee"/>
 					<attribute id="UUID" type="guid" value="730c3f3f-4ef7-4d26-a92b-c3aedab9f96b"/>
 				</node>
