@@ -84,6 +84,11 @@
                     <attribute id="Spells" type="LSString" value="Target_War_CureWounds"/>
                     <attribute id="UUID" type="guid" value="e0e6f366-bb8d-4af3-b66a-c8db2d0ebf01"/>
                 </node>
+				<node id="SpellList">
+					<attribute id="Name" type="FixedString" value="AidSorcery_Level_5_Add_Spell"/>
+					<attribute id="Spells" type="LSString" value="Shout_HealingWord_Mass"/>
+					<attribute id="UUID" type="guid" value="93b57f07-674f-4828-ac2c-bede7cc0766d"/>
+				</node>
                 <node id="SpellList">
                     <attribute id="Name" type="FixedString" value="AidSorcery_Level_6_Add_Spell_Rest"/>
                     <attribute id="Spells" type="LSString" value="Shout_Comforting_Radiance_Rest"/>
