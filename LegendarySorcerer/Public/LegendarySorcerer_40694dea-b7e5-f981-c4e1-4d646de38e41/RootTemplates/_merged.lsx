@@ -2934,6 +2934,18 @@
 					<attribute id="Type" type="FixedString" value="item" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209032" />
 				</node>
+				<!-- 传奇术士盾牌（目前只给支援术士使用） -->
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="hd03b8bb8gb70fg433bg9a78g15bce85d9b50" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h6cb5ceadg6f0eg4f05gba86gbc53e1ff9399" version="1" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="1ab43601-fe04-4f39-98c3-d03258f3ed99" />
+					<attribute id="Name" type="LSString" value="MAG_LegendarySorcerer_Shield" />
+					<attribute id="ParentTemplateId" type="FixedString" value="004ab562-5cd4-4f1f-8aa5-497e7e2c5f4f" />
+					<attribute id="Stats" type="FixedString" value="MAG_LegendarySorcerer_Shield" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209032" />
+				</node>
 			</children>
 		</node>
 	</region>

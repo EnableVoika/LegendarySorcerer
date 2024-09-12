@@ -78,6 +78,8 @@ add equipmentgroup
 add equipment entry "ARM_LegendarySorcerer_Shoes_F"
 add equipmentgroup
 add equipment entry "MAG_AidSorcerer_Gloves"
+add equipmentgroup
+add equipment entry "MAG_LegendarySorcerer_Shield"
 
 new equipment "EQP_CC_LegendarySorcerer"
 add initialweaponset "Melee"

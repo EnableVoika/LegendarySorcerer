@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="0" build="58" lslib_meta="v1,bswap_guids,lsf_keys_adjacency" />
+	<region id="Tags">
+		<!-- 对战斗术士主职业的标签描述 -->
+		<node id="Tags">
+			<attribute id="Description" type="LSString" value="在战场上有着出色的近战能力。" />
+			<attribute id="DisplayDescription" type="TranslatedString" handle="h77903351gd573g4626ga25ag98b2923c31ae" version="1" />
+			<attribute id="DisplayName" type="TranslatedString" handle="hd1213b29g7e98g46e3g8ebfg9421e9f712a7" version="1" />
+			<attribute id="Icon" type="FixedString" value="" />
+			<attribute id="Name" type="FixedString" value="ATTACKSORCERER" />
+			<attribute id="UUID" type="guid" value="bf61e2f7-0ac4-442c-b121-a3409a820217" />
+			<children>
+				<node id="Categories">
+					<children>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Code" />
+						</node>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Dialog" />
+						</node>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Class" />
+						</node>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="CharacterSheet" />
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>
