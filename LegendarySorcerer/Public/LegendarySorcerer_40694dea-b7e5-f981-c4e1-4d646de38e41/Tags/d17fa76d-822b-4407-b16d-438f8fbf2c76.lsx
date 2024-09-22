@@ -2,7 +2,7 @@
 <save>
 	<version major="4" minor="0" revision="0" build="58" lslib_meta="v1,bswap_guids,lsf_keys_adjacency" />
 	<region id="Tags">
-		<!-- 对特技术士职业的标签描述 -->
+		<!-- 对特级术士职业的标签描述 -->
 		<node id="Tags">
 			<attribute id="Description" type="LSString" value="有着出色的施法能力的特级术士。" />
 			<attribute id="DisplayDescription" type="TranslatedString" handle="h457fc563g4776g4c16ga10cgd78e295deea7" version="1" />
