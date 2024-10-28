@@ -657,11 +657,12 @@
                     <attribute id="TableUUID" type="guid" value="00453202-a17f-4bad-85ed-17f61481f7d7"/>
                     <attribute id="UUID" type="guid" value="1cde92f2-dd20-44a4-828c-e60ffbb0dd0c"/>
                 </node>
+				<!-- 战斗术士子职业进度 -->
 				<node id="Progression">
 					<attribute id="Level" type="uint8" value="1"/>
 					<attribute id="Name" type="LSString" value="AttackSorcery"/>
 					<attribute id="ProgressionType" type="uint8" value="1"/>
-					<attribute id="Selectors" type="LSString" value="AddSpells(bfe6d470-9914-4b6a-9516-675f00cbfa37)"/>
+					<attribute id="Selectors" type="LSString" value="AddSpells(bfe6d470-9914-4b6a-9516-675f00cbfa37);AddSpells(448088ae-53a8-4cdd-ac1a-2bf5f02e4484)"/>
 					<attribute id="PassivesAdded" type="LSString" value="ClassPassive_Tough_AttackSorcerer" />
 					<attribute id="TableUUID" type="guid" value="ed7d45a0-1a75-4067-8d73-b1c40e2329ee"/>
 					<attribute id="UUID" type="guid" value="730c3f3f-4ef7-4d26-a92b-c3aedab9f96b"/>
@@ -677,7 +678,8 @@
                     <attribute id="Level" type="uint8" value="3"/>
                     <attribute id="Name" type="LSString" value="AttackSorcery"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="TableUUID" type="guid" value="ed7d45a0-1a75-4067-8d73-b1c40e2329ee"/>
+					<attribute id="PassivesAdded" type="LSString" value="AttackSorcerer_Lv3_FaerieFire_Passive"/>
+					<attribute id="TableUUID" type="guid" value="ed7d45a0-1a75-4067-8d73-b1c40e2329ee"/>
                     <attribute id="UUID" type="guid" value="661e1cfa-6f19-4dd7-a98b-c3e2b58a301d"/>
                 </node>
                 <node id="Progression">

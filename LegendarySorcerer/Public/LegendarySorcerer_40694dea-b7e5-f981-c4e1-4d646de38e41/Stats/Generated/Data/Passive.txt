@@ -115,3 +115,13 @@ data "DescriptionParams" "10%"
 data "Icon" "PassiveFeature_Tough"
 data "Properties" "IsHidden"
 data "Boosts" "IncreaseMaxHP(10%)"
+
+new entry "AttackSorcerer_Lv3_FaerieFire_Passive"
+type "PassiveData"
+data "DisplayName" "h4824011bg653bg4634ga93cg7e226d002cfa;1"
+data "Description" "h0646b487gd7e2g44ddgb645g62878daa5fb4;1"
+data "Properties" "OncePerTurn"
+data "StatsFunctorContext" "OnDamage"
+data "Conditions" "SavingThrow(Ability.Charisma, 13, false, false, context.Target)"
+data "StatsFunctors" "IF(not Self()):ApplyStatus(FAERIE_FIRE, 100, 2)"
+

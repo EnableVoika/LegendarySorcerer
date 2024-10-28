@@ -9,6 +9,11 @@
                     <attribute id="Spells" type="LSString" value="Target_ShockingGrasp;Target_TrueStrike"/>
                     <attribute id="UUID" type="guid" value="bfe6d470-9914-4b6a-9516-675f00cbfa37"/>
                 </node>
+				<node id="SpellList">
+					<attribute id="Name" type="FixedString" value="AttackSorcery_Level_1_Add_Spell"/>
+					<attribute id="Spells" type="LSString" value="Target_CompelledDuel_AttackSorcerer"/>
+					<attribute id="UUID" type="guid" value="448088ae-53a8-4cdd-ac1a-2bf5f02e4484"/>
+				</node>
                 <node id="SpellList">
                     <attribute id="Name" type="FixedString" value="AidSorcery_Level_1_Select_Cantrips"/>
                     <attribute id="Spells" type="LSString" value="Shout_Thaumaturgy;Target_SacredFlame;Target_Guidance;Target_Resistance;Target_Light;Shout_BladeWard;Shout_ProduceFlame;Projectile_PoisonSpray;Shout_Shillelagh;Target_ThornWhip"/>
