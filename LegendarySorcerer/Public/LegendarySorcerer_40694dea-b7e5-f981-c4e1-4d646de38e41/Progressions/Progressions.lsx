@@ -689,19 +689,22 @@
                     <attribute id="TableUUID" type="guid" value="ed7d45a0-1a75-4067-8d73-b1c40e2329ee"/>
                     <attribute id="UUID" type="guid" value="3a97a03f-5a56-49da-93b1-78d01b19d8ee"/>
                 </node>
+				<!-- 获得额外1打 -->
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="5"/>
                     <attribute id="Name" type="LSString" value="AttackSorcery"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="TableUUID" type="guid" value="ed7d45a0-1a75-4067-8d73-b1c40e2329ee"/>
-                    <attribute id="UUID" type="guid" value="138b2ab1-a84f-43dc-bd4f-1728fe9c0696"/>
+					<attribute id="PassivesAdded" type="LSString" value="ExtraAttack"/>
+					<attribute id="UUID" type="guid" value="138b2ab1-a84f-43dc-bd4f-1728fe9c0696"/>
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="6"/>
                     <attribute id="Name" type="LSString" value="AttackSorcery"/>
-                    <attribute id="PassivesAdded" type="LSString" value="AttackSorcery_Veteran_On_War_Passive"/>
+                    <attribute id="PassivesAdded" type="LSString" value="MAG_Revivify_Gloves_Passive"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="TableUUID" type="guid" value="ed7d45a0-1a75-4067-8d73-b1c40e2329ee"/>
+					<attribute id="Selectors" type="LSString" value="AddSpells(9f3b0c51-1de5-4fb8-aee8-d1d7f4ac64a6)"/>
+					<attribute id="TableUUID" type="guid" value="ed7d45a0-1a75-4067-8d73-b1c40e2329ee"/>
                     <attribute id="UUID" type="guid" value="67b40f3a-5d4e-4547-8c09-73498c0cace5"/>
                 </node>
                 <node id="Progression">
@@ -732,11 +735,14 @@
                     <attribute id="TableUUID" type="guid" value="ed7d45a0-1a75-4067-8d73-b1c40e2329ee"/>
                     <attribute id="UUID" type="guid" value="ad646ceb-3c68-4a4e-b262-122eba2a8ff3"/>
                 </node>
+				<!-- 移除1打，添加额外2打 -->
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="11"/>
                     <attribute id="Name" type="LSString" value="AttackSorcery"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="TableUUID" type="guid" value="ed7d45a0-1a75-4067-8d73-b1c40e2329ee"/>
+					<attribute id="PassivesRemoved" type="LSString" value="ExtraAttack"/>
+					<attribute id="PassivesAdded" type="LSString" value="ExtraAttack_2"/>
+					<attribute id="TableUUID" type="guid" value="ed7d45a0-1a75-4067-8d73-b1c40e2329ee"/>
                     <attribute id="UUID" type="guid" value="9c168b3c-3450-42a4-ab80-b3def13d08c1"/>
                 </node>
                 <node id="Progression">
