@@ -105,8 +105,52 @@
   <content contentuid="h47de88bag30d1g43e7gb54fgbd9480176ebb" version="1">传奇术士拿着它不需要熟练项</content>
   <content contentuid="h9eb61543g25e3g424cga58dg7b3491b5d6c2" version="1">战争体质</content>
   <content contentuid="h13454927g4dfeg49b9g87e4g970838bb5afe" version="1">生命上限额外提升[1]</content>
+  <content contentuid="h92b2bdcegbedag4c38gb0f4g4586a7833f33" version="1">近战调节:魅力</content>
+  <content contentuid="hea0efa1dgda72g46ddg8d33g222ad2379588" version="1">你可以将魅力调整值计算到攻击和伤害骰上。</content>
+  <content contentuid="hba493453gfc5ag470dga7b5geca7c1c925aa" version="1">强化打击（妖火）</content>
+  <content contentuid="h5028946eg2afbg417fg9583g877202d78a62" version="1">攻击具有妖火的目标丢到19也能重击。</content>
   <content contentuid="h98bdaaa8g70f9g4c67g856dg197bb5cb690c" version="1">无双挑战</content>
   <content contentuid="h751e7b01g91cfg45bagac62g29d83b2b0b7e" version="1">强制目标只能攻击施法者，并且对施法者的攻击具有劣势，每环额外选择一个目标。</content>
   <content contentuid="h4824011bg653bg4634ga93cg7e226d002cfa" version="1">施法/攻击协奏</content>
-  <content contentuid="h0646b487gd7e2g44ddgb645g62878daa5fb4" version="1">收到伤害的目标会被施加“妖火”效果。</content>
+  <content contentuid="h0646b487gd7e2g44ddgb645g62878daa5fb4" version="1">受到伤害的目标会被施加“妖火”效果。</content>
+  <content contentuid="h1d11c6b3g5242g489fg8a0fgf9c971dd5daf" version="1">易伤诅咒</content>
+  <content contentuid="h16c3cf5fg428eg43bfgba88g38f8add81f40" version="1">弱点专攻</content>
+  <content contentuid="h95fbdbb6g521ag42f3g8b95g702998f20199" version="1">易伤诅咒：火焰</content>
+  <content contentuid="h70a304dbg090cg4fa4ga590gfcad3b3ad0db" version="1">易伤诅咒：寒冷</content>
+  <content contentuid="h6c377a3fgd465g4b93ga3adgcc94b089ff41" version="1">易伤诅咒：闪电</content>
+  <content contentuid="h16260a55g6526g4f1aga2a0gb3bd00eb26a5" version="1">易伤诅咒：心灵</content>
+  <content contentuid="h4399fb48g3f94g428fg8a19gd9f8e52d160d" version="1">易伤诅咒：雷鸣</content>
+  <content contentuid="hd2e6d762gb5cdg4f77gab9ag5629387cdaf5" version="1">易伤诅咒：力场</content>
+  <content contentuid="hfac2856cgd7eag4a03g8cebg6c1bbf84868a" version="1">易伤诅咒：钝击</content>
+  <content contentuid="h8480039ag8849g47cdgad6cg34b03b9d1def" version="1">易伤诅咒：挥砍</content>
+  <content contentuid="hf3d78822g680cg403eg9718g56b4f0d9f0f8" version="1">易伤诅咒：穿刺</content>
+  <content contentuid="h36385b64g5080g4a1cgba7ag1e355bd50710" version="1">使目标陷入你选择的一种伤害类型的易伤</content>
+  <content contentuid="h880c557cg559eg4c65gafa3g70b2b1b0f327" version="1">使目标陷入你选择的一种物理伤害类型的易伤</content>
+  <content contentuid="hc5f3ef42g54dcg45f4g97a5gd73564d085cd" version="1">火焰重伤</content>
+  <content contentuid="haf14c20cg3ebfg46c9g8b5agede75fe25855" version="1">寒冷重伤</content>
+  <content contentuid="h64288a60g0185g4419g8e9bg4345824b5180" version="1">闪电重伤</content>
+  <content contentuid="h6e149907g0a19g4922gadb2g7522262d1817" version="1">心灵重伤</content>
+  <content contentuid="hc27751e8g6386g482fg9914g2ae6b80699d4" version="1">雷鸣重伤</content>
+  <content contentuid="hdf5e73a1g4424g466cgb308g6d4fa0fad561" version="1">力场重伤</content>
+  <content contentuid="hc71a1798g5123g4510gbd87g30d97d277524" version="1">钝击重伤</content>
+  <content contentuid="h2f8d9758gc0d4g480egbd42gd8d089c64280" version="1">挥砍重伤</content>
+  <content contentuid="hf6fb7760g3037g4ee3g9d3fgff91130bd297" version="1">穿刺重伤</content>
+  <content contentuid="h7c33481bg0317g4fb9gaf15g77da7b7e7e1b" version="1">使目标陷入火焰易伤或移除目标对火焰伤害的免疫。</content>
+  <content contentuid="he9b0e44dg195dg44f9ga641g98522638e319" version="1">如果目标陷入易伤诅咒：火焰，则你额外造成造成[1]</content>
+  <content contentuid="hfe36b270gc5bbg46e8g98dfg70927b8eecba" version="1">使目标陷入寒冷易伤或移除目标对寒冷伤害的免疫。</content>
+  <content contentuid="ha8b725beg085dg4b40g8613g59f0fb5eadee" version="1">如果目标陷入易伤诅咒：寒冷，则你额外造成造成[1]</content>
+  <content contentuid="hda530768g0843g4e09g9de4g495c96936d0c" version="1">使目标陷入闪电易伤或移除目标对闪电伤害的免疫。</content>
+  <content contentuid="h0f8b4bc3g87e0g4fbdg8a97g0106f614effc" version="1">如果目标陷入易伤诅咒：闪电，则你额外造成造成[1]</content>
+  <content contentuid="h9bd1386cg1dcbg4c69gbb80g70554f81ebaa" version="1">使目标陷入心灵易伤或移除目标对心灵伤害的免疫。</content>
+  <content contentuid="had18b600g1d4dg44efg81c3g7d5eabce8211" version="1">如果目标陷入易伤诅咒：心灵，则你额外造成造成[1]</content>
+  <content contentuid="h045d2e3ag3d3bg45c5gaab2gcbf90472a34a" version="1">使目标陷入雷鸣易伤或移除目标对雷鸣伤害的免疫。</content>
+  <content contentuid="h777cc06egd7f2g413fg95afg474b79b13852" version="1">如果目标陷入易伤诅咒：雷鸣，则你额外造成造成[1]</content>
+  <content contentuid="h86b44a81g4087g4177gab37ga982299d659d" version="1">使目标陷入立场易伤或移除目标对立场伤害的免疫。</content>
+  <content contentuid="h0c65d7d7ge741g459agb9b0g2e8ffcb1b2ea" version="1">如果目标陷入易伤诅咒：立场，则你额外造成造成[1]</content>
+  <content contentuid="h1fd7f8c9g47d8g479cgbb18g719da544fd3a" version="1">使目标陷入钝击易伤或移除目标对钝击伤害的免疫。</content>
+  <content contentuid="h234f8ee7g110dg4caeg836ag75f06f37db30" version="1">如果目标陷入易伤诅咒：钝击，则你造成的钝击伤害会额外造成[1]。</content>
+  <content contentuid="h65e9f5e0g1a58g4a2dgb00cg73eedca67fc8" version="1">使目标陷入挥砍易伤或移除目标对挥砍伤害的免疫。</content>
+  <content contentuid="ha24f5b7ag5584g4e4dg8560g44ca99fc44f9" version="1">如果目标陷入易伤诅咒：挥砍，则你造成的挥砍伤害会额外造成[1]。</content>
+  <content contentuid="h8dd13f14g22beg43efgb78bg175c261dd7ed" version="1">使目标陷入穿刺易伤或移除目标对穿刺伤害的免疫。</content>
+  <content contentuid="h453a8da1gd11fg49f1g8f2aga3e0a1643b5e" version="1">如果目标陷入易伤诅咒：穿刺，则你造成的穿刺伤害会额外造成[1]。</content>
 </contentList>

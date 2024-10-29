@@ -21,6 +21,12 @@
 					<attribute id="Spells" type="LSString" value="Target_HealingWord"/>
 					<attribute id="UUID" type="guid" value="9f3b0c51-1de5-4fb8-aee8-d1d7f4ac64a6"/>
 				</node>
+				<!-- 战斗术士9级添加法术 -->
+				<node id="SpellList">
+					<attribute id="Name" type="FixedString" value="AttackSorcery_Lv9_Add_Spell"/>
+					<attribute id="Spells" type="LSString" value="Target_Vulnerable_Physics"/>
+					<attribute id="UUID" type="guid" value="edf8d118-70f5-45f5-9f02-b122670ac40a"/>
+				</node>
 				<node id="SpellList">
                     <attribute id="Name" type="FixedString" value="AidSorcery_Level_1_Select_Cantrips"/>
                     <attribute id="Spells" type="LSString" value="Shout_Thaumaturgy;Target_SacredFlame;Target_Guidance;Target_Resistance;Target_Light;Shout_BladeWard;Shout_ProduceFlame;Projectile_PoisonSpray;Shout_Shillelagh;Target_ThornWhip"/>
