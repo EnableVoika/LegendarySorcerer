@@ -4,6 +4,7 @@
     <region id="ProgressionDescriptions">
         <node id="root">
             <children>
+				<!-- 支援术士领悟生命被动描述 -->
                 <node id="ProgressionDescription">
                     <attribute id="Description" type="TranslatedString" handle="h732ddf85gecf3gabe3gf725gf8bbc1276e0e" version="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h85d22105g29d2gb6fcgf31fgc9fe3fbe5c30" version="1"/>
@@ -22,6 +23,62 @@
                     <attribute id="SelectorId" type="FixedString" value="WuShiSpell"/>
                     <attribute id="UUID" type="guid" value="8b13f41e-e73a-4fe6-ad20-9b59a9e1cfa5"/>
                 </node>
+				<!-- 支援术士法术专注被动描述 -->
+				<node id="ProgressionDescription">
+					<attribute id="Description" type="TranslatedString" handle="h12fb040ag0c93g453bgbc16g78f0ec41ef71" version="1"/>
+					<attribute id="DisplayName" type="TranslatedString" handle="hd3150b69g0d7dg4e9fg9372g564255dc1ed8" version="1"/>
+					<attribute id="SelectorId" type="FixedString" value="LegendarySorcererFocusedSpellPassive"/>
+					<attribute id="UUID" type="guid" value="e9c5db20-57b5-45ec-8f51-69071a8dbe53"/>
+				</node>
+				<!-- 牧师法表描述 -->
+				<node id="ProgressionDescription">
+					<attribute id="Description" type="TranslatedString" handle="hf8e52bc5g9c8ag4571g9e17ga636f30180d6" version="1"/>
+					<attribute id="DisplayName" type="TranslatedString" handle="h650fa020gb3f0g47dcg9467gf8340b6facda" version="1"/>
+					<attribute id="SelectorId" type="FixedString" value="MyClericSpell"/>
+					<attribute id="UUID" type="guid" value="d3060ba5-d8c6-4d84-b8c5-e14e4fc16651"/>
+				</node>
+				<!-- 牧师生命领域 -->
+				<node id="ProgressionDescription">
+					<attribute id="Description" type="TranslatedString" handle="h42fadcefg67cbg4563g9129g12f18f6eba44" version="1"/>
+					<attribute id="DisplayName" type="TranslatedString" handle="h3c244816g3edeg457ega26cg4b2ab787bf82" version="1"/>
+					<attribute id="SelectorId" type="FixedString" value="MyClericLifeDomainSpell"/>
+					<attribute id="UUID" type="guid" value="f9354e6c-4e4a-43a0-9a2f-bf7e6a7d2cea"/>
+				</node>
+				<!-- 法师法表描述 -->
+				<node id="ProgressionDescription">
+					<attribute id="Description" type="TranslatedString" handle="hc5218d4ag0ca5g4310g917ag9b6073adeb0e" version="1"/>
+					<attribute id="DisplayName" type="TranslatedString" handle="h1a41cb3ag4287g4d36gab03g4adf528da4f2" version="1"/>
+					<attribute id="SelectorId" type="FixedString" value="MyWizardSpell"/>
+					<attribute id="UUID" type="guid" value="8e5130aa-cfc2-4ee3-ac32-b7b59858a07f"/>
+				</node>
+				<!-- 术士法表描述 -->
+				<node id="ProgressionDescription">
+					<attribute id="Description" type="TranslatedString" handle="hbe08794fg0c91g4700ga234g260bcce710d4" version="1"/>
+					<attribute id="DisplayName" type="TranslatedString" handle="h051bbfecg1081g4841g9a42g8af61814e6d7" version="1"/>
+					<attribute id="SelectorId" type="FixedString" value="MySorcererSpell"/>
+					<attribute id="UUID" type="guid" value="e090eae3-a7d1-4b72-8c76-987231ba6a0f"/>
+				</node>
+				<!-- 法师戏法描述 -->
+				<node id="ProgressionDescription">
+					<attribute id="Description" type="TranslatedString" handle="h74fbc18fg2bf8g4397g9ae4g7d397f577271" version="1"/>
+					<attribute id="DisplayName" type="TranslatedString" handle="h0fbeaa1ege59eg463dgac92gf521f0c13143" version="1"/>
+					<attribute id="SelectorId" type="FixedString" value="MyWizardCantrips"/>
+					<attribute id="UUID" type="guid" value="b808914d-f523-45c2-ad19-3bace4243b3a"/>
+				</node>
+				<!-- 术士戏法描述 -->
+				<node id="ProgressionDescription">
+					<attribute id="Description" type="TranslatedString" handle="h4c465894gcb5cg4c79g94fdge589b77ea5f3" version="1"/>
+					<attribute id="DisplayName" type="TranslatedString" handle="h215f23f1g80c1g406fgb688g1ef4b826d20a" version="1"/>
+					<attribute id="SelectorId" type="FixedString" value="MySorcererCantrips"/>
+					<attribute id="UUID" type="guid" value="af61bf24-322f-43fd-adf3-cd0b41585319"/>
+				</node>
+				<!-- 牧师戏法描述 -->
+				<node id="ProgressionDescription">
+					<attribute id="Description" type="TranslatedString" handle="h3510d508g7520g4709gaa2dgde0db08a9d59" version="1"/>
+					<attribute id="DisplayName" type="TranslatedString" handle="h58fabc11g9543g4ef2g956cgf2d220a9e489" version="1"/>
+					<attribute id="SelectorId" type="FixedString" value="MyClericCantrips"/>
+					<attribute id="UUID" type="guid" value="7cab9805-fb88-4199-a880-b3401e3cde84"/>
+				</node>
             </children>
         </node>
     </region>

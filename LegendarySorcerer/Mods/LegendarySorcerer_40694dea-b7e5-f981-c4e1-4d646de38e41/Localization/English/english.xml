@@ -105,7 +105,7 @@
   <content contentuid="h47de88bag30d1g43e7gb54fgbd9480176ebb" version="1">传奇术士拿着它不需要熟练项</content>
   <content contentuid="h9eb61543g25e3g424cga58dg7b3491b5d6c2" version="1">战争体质</content>
   <content contentuid="h13454927g4dfeg49b9g87e4g970838bb5afe" version="1">生命上限额外提升[1]</content>
-  <content contentuid="h92b2bdcegbedag4c38gb0f4g4586a7833f33" version="1">近战调节:魅力</content>
+  <content contentuid="h92b2bdcegbedag4c38gb0f4g4586a7833f33" version="1">攻势调节:魅力</content>
   <content contentuid="hea0efa1dgda72g46ddg8d33g222ad2379588" version="1">你可以将魅力调整值计算到攻击和伤害骰上。</content>
   <content contentuid="hba493453gfc5ag470dga7b5geca7c1c925aa" version="1">强化打击（妖火）</content>
   <content contentuid="h5028946eg2afbg417fg9583g877202d78a62" version="1">攻击具有妖火的目标丢到19也能重击。</content>
@@ -113,6 +113,22 @@
   <content contentuid="h751e7b01g91cfg45bagac62g29d83b2b0b7e" version="1">强制目标只能攻击施法者，并且对施法者的攻击具有劣势，每环额外选择一个目标。</content>
   <content contentuid="h4824011bg653bg4634ga93cg7e226d002cfa" version="1">施法/攻击协奏</content>
   <content contentuid="h0646b487gd7e2g44ddgb645g62878daa5fb4" version="1">受到伤害的目标会被施加“妖火”效果。</content>
+  <content contentuid="h650fa020gb3f0g47dcg9467gf8340b6facda" version="1">牧师法术</content>
+  <content contentuid="hf8e52bc5g9c8ag4571g9e17ga636f30180d6" version="1">作为战场上支援，你懂的如何使用牧师的法术</content>
+  <content contentuid="h1a41cb3ag4287g4d36gab03g4adf528da4f2" version="1">法师法术</content>
+  <content contentuid="hc5218d4ag0ca5g4310g917ag9b6073adeb0e" version="1">作为传奇术士之一，法师所掌握的你自然也会</content>
+  <content contentuid="h051bbfecg1081g4841g9a42g8af61814e6d7" version="1">术士法术</content>
+  <content contentuid="hbe08794fg0c91g4700ga234g260bcce710d4" version="1">你掌握一般术士的全部法术</content>
+  <content contentuid="h0fbeaa1ege59eg463dgac92gf521f0c13143" version="1">法师戏法</content>
+  <content contentuid="h74fbc18fg2bf8g4397g9ae4g7d397f577271" version="1">你掌握法师的全部戏法</content>
+  <content contentuid="h215f23f1g80c1g406fgb688g1ef4b826d20a" version="1">术士戏法</content>
+  <content contentuid="h4c465894gcb5cg4c79g94fdge589b77ea5f3" version="1">你掌握一般术士的全部戏法</content>
+  <content contentuid="h58fabc11g9543g4ef2g956cgf2d220a9e489" version="1">牧师戏法</content>
+  <content contentuid="h3510d508g7520g4709gaa2dgde0db08a9d59" version="1">你掌握一般牧师的全部戏法</content>
+  <content contentuid="h3c244816g3edeg457ega26cg4b2ab787bf82" version="1">生命领域</content>
+  <content contentuid="h42fadcefg67cbg4563g9129g12f18f6eba44" version="1">救死扶伤</content>
+  <content contentuid="hd3150b69g0d7dg4e9fg9372g564255dc1ed8" version="1">法术专注</content>
+  <content contentuid="h12fb040ag0c93g453bgbc16g78f0ec41ef71" version="1">选择一种你的招牌被动。</content>
   <content contentuid="h1d11c6b3g5242g489fg8a0fgf9c971dd5daf" version="1">易伤诅咒</content>
   <content contentuid="h16c3cf5fg428eg43bfgba88g38f8add81f40" version="1">弱点专攻</content>
   <content contentuid="h95fbdbb6g521ag42f3g8b95g702998f20199" version="1">易伤诅咒：火焰</content>
