@@ -196,7 +196,6 @@
                     <attribute id="UUID" type="guid" value="1b59a5f9-ff95-43e8-9080-36e4a26e31cd"/>
                 </node>
                 <node id="Progression">
-                    <attribute id="AllowImprovement" type="bool" value="true"/>
                     <attribute id="Level" type="uint8" value="11"/>
                     <attribute id="Name" type="LSString" value="LegendarySorcery"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
@@ -214,6 +213,7 @@
                     <attribute id="UUID" type="guid" value="51011c94-7f67-43a1-b2f2-563e7ebcce7a"/>
                 </node>
                 <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="true"/>
                     <attribute id="Level" type="uint8" value="12"/>
                     <attribute id="Name" type="LSString" value="LegendarySorcery"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
@@ -265,7 +265,6 @@
                     <attribute id="UUID" type="guid" value="7b25cf75-156a-4f41-b5be-7aa59b1a4b61"/>
                 </node>
                 <node id="Progression">
-                    <attribute id="AllowImprovement" type="bool" value="true"/>
                     <attribute id="Level" type="uint8" value="15"/>
                     <attribute id="Name" type="LSString" value="LegendarySorcery"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
@@ -284,6 +283,7 @@
                     <attribute id="UUID" type="guid" value="a40db833-97a2-455c-b4c8-ccff928f34f8"/>
                 </node>
                 <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="true"/>
                     <attribute id="Level" type="uint8" value="16"/>
                     <attribute id="Name" type="LSString" value="LegendarySorcery"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
@@ -334,7 +334,6 @@
                     <attribute id="UUID" type="guid" value="f8c023dc-83f7-49fa-9659-2759f1494163"/>
                 </node>
                 <node id="Progression">
-                    <attribute id="AllowImprovement" type="bool" value="true"/>
                     <attribute id="Level" type="uint8" value="19"/>
                     <attribute id="Name" type="LSString" value="LegendarySorcery"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
@@ -352,6 +351,7 @@
                     <attribute id="UUID" type="guid" value="ecc50d39-abbd-4fea-af1d-1a37364b5761"/>
                 </node>
                 <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="true"/>
                     <attribute id="Level" type="uint8" value="20"/>
                     <attribute id="Name" type="LSString" value="LegendarySorcery"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
