@@ -467,7 +467,7 @@
                     <attribute id="Name" type="LSString" value="AidSorcery"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
 					<attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,6);ActionResource(SpellSlot,1,7)"/>
-					<attribute id="Selectors" type="LSString" value="SelectSpells(f8ba7b05-1237-4eaa-97fa-1d3623d5862b,1,0,MyClericSpell)"/>
+					<attribute id="Selectors" type="LSString" value="SelectSpells(f8ba7b05-1237-4eaa-97fa-1d3623d5862b,1,0,MyClericSpell);AddSpells(8ee1f509-6848-4042-96fa-7d64f52ccbed)"/>
                     <attribute id="TableUUID" type="guid" value="fbbc6309-1fc7-4926-bdd6-8be1a8f80bc2"/>
                     <attribute id="UUID" type="guid" value="6653631b-787d-4e1e-bce7-703930fed80b"/>
                 </node>

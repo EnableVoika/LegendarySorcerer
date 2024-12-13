@@ -112,6 +112,12 @@
                     <attribute id="Spells" type="LSString" value="Shout_Comforting_Radiance_Rest"/>
                     <attribute id="UUID" type="guid" value="f7b726c9-6b96-4bfd-aea7-a1921ca6c804"/>
                 </node>
+                <!-- 支援术士13级获得被侵蚀的治愈灵光 -->
+                <node id="SpellList">
+					<attribute id="Name" type="FixedString" value="AidSorcery_Lv13_Add_Spell"/>
+					<attribute id="Spells" type="LSString" value="Target_Darkness_Healing"/>
+					<attribute id="UUID" type="guid" value="8ee1f509-6848-4042-96fa-7d64f52ccbed"/>
+				</node>
             </children>
         </node>
     </region>
