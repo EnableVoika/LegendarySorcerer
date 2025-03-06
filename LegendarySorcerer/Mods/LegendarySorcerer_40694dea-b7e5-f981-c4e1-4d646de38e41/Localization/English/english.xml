@@ -125,6 +125,8 @@
   <content contentuid="h4c465894gcb5cg4c79g94fdge589b77ea5f3" version="1">你掌握一般术士的全部戏法</content>
   <content contentuid="h58fabc11g9543g4ef2g956cgf2d220a9e489" version="1">牧师戏法</content>
   <content contentuid="h3510d508g7520g4709gaa2dgde0db08a9d59" version="1">你掌握一般牧师的全部戏法</content>
+  <content contentuid="h415b8f51g39b0g4194g845eg5a4af7d87261" version="1">属性精通</content>
+  <content contentuid="h2d256675g3023g4808g8050g4db76c55989d" version="1">你精通一种属性，在造成对应属性伤害时能造成额外的同属性伤害。</content>
   <content contentuid="h3c244816g3edeg457ega26cg4b2ab787bf82" version="1">生命领域</content>
   <content contentuid="h42fadcefg67cbg4563g9129g12f18f6eba44" version="1">救死扶伤</content>
   <content contentuid="hd3150b69g0d7dg4e9fg9372g564255dc1ed8" version="1">法术专注</content>
@@ -180,4 +182,6 @@
   <content contentuid="h79477d19ge703g4445gac4bgf03a80e6eaa0" version="1">被侵蚀的治愈灵光</content>
   <content contentuid="ha02c251dg114fg413eg8a1ag5abf6902a034" version="1">精确掌控并借助黑暗的力量，来治愈周围的盟友，对敌人造成[1]</content>
   <content contentuid="h0ec7730agd42dg4332g8367g6e9683bd784f" version="1">每回合恢复[1]，每回合对敌人造成[2]。</content>
+	<content contentuid="h7021b759g2485g40b6g9347g5418343d16de" version="1">奥术充能</content>
+	<content contentuid="hf27484bbg1a91g407dg838fgad67ea632709" version="1">作为传奇术士，你每一次长休之后，你都可以进行一次冥想恢复部分法术环。</content>
 </contentList>

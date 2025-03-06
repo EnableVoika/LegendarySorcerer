@@ -118,6 +118,12 @@
 					<attribute id="Spells" type="LSString" value="Target_Darkness_Healing"/>
 					<attribute id="UUID" type="guid" value="8ee1f509-6848-4042-96fa-7d64f52ccbed"/>
 				</node>
+                <!-- 特级术士1级恢复法术环位法术 -->
+                <node id="SpellList">
+					<attribute id="Name" type="FixedString" value="CastSorcery_Lv1_Add_Spell"/>
+					<attribute id="Spells" type="LSString" value="Shout_MoreSpellSlot_CastSorcerer_Rest"/>
+					<attribute id="UUID" type="guid" value="865d87e2-79da-41fa-9458-5140daea173a"/>
+				</node>
             </children>
         </node>
     </region>

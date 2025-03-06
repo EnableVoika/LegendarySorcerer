@@ -526,13 +526,13 @@
                     <attribute id="TableUUID" type="guid" value="fbbc6309-1fc7-4926-bdd6-8be1a8f80bc2"/>
                     <attribute id="UUID" type="guid" value="f478fd5f-a22e-4171-ad45-e9eae18f1e53"/>
                 </node>
-				<!-- 特级术士 -->
+				<!-- 特级术士 法术环位: 4:1, 4:2, 3:3, 3:4, 2:5, 2:6, 2:7, 1:8, 1:9 -->
 				<node id="Progression">
 					<attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,2,1)"/>
 					<attribute id="Level" type="uint8" value="1"/>
 					<attribute id="Name" type="LSString" value="CastSorcery"/>
 					<attribute id="ProgressionType" type="uint8" value="1"/>
-					<attribute id="Selectors" type="LSString" value="SelectPassives(1042ff0d-61c3-47cb-ba32-55b9de8e370f,1,Juexing)"/>
+					<attribute id="Selectors" type="LSString" value="AddSpells(865d87e2-79da-41fa-9458-5140daea173a);SelectPassives(1042ff0d-61c3-47cb-ba32-55b9de8e370f,1,CastSorcererConcentratePassive)"/>
 					<attribute id="TableUUID" type="guid" value="00453202-a17f-4bad-85ed-17f61481f7d7"/>
 					<attribute id="UUID" type="guid" value="e23d3465-f665-46cc-aed9-f712336458aa"/>
 				</node>

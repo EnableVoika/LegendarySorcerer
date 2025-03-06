@@ -79,6 +79,13 @@
 					<attribute id="SelectorId" type="FixedString" value="MyClericCantrips"/>
 					<attribute id="UUID" type="guid" value="7cab9805-fb88-4199-a880-b3401e3cde84"/>
 				</node>
+				<!-- 特级术士施法类型专注描述 -->
+				<node id="ProgressionDescription">
+					<attribute id="Description" type="TranslatedString" handle="h2d256675g3023g4808g8050g4db76c55989d" version="1"/>
+					<attribute id="DisplayName" type="TranslatedString" handle="h415b8f51g39b0g4194g845eg5a4af7d87261" version="1"/>
+					<attribute id="SelectorId" type="FixedString" value="CastSorcererConcentratePassive"/>
+					<attribute id="UUID" type="guid" value="aba5d767-c00b-4914-9e68-381b1c40e3f3"/>
+				</node>
             </children>
         </node>
     </region>
