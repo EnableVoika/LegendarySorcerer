@@ -9,7 +9,7 @@
                     <attribute id="Level" type="uint8" value="1"/>
                     <attribute id="Name" type="LSString" value="LegendarySorcery"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
-                    <attribute id="Selectors" type="LSString" value="SelectSpells(01497099-5540-4d3c-9e63-09b481313d4d,4,0,,,,AlwaysPrepared);SelectSpells(92c4751f-6255-4f67-822c-a75d53830b27,2,0,MySorcererSpell);SelectSkills(b483e956-bfb5-4a91-b088-7a610ea24ef0,2)"/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(485a68b4-c678-4888-be63-4a702efbe391,4,0,SorcererCantrip,,,AlwaysPrepared);SelectSpells(92c4751f-6255-4f67-822c-a75d53830b27,2,0,MySorcererSpell);SelectSkills(b483e956-bfb5-4a91-b088-7a610ea24ef0,2)"/>
                     <attribute id="TableUUID" type="guid" value="7ea4e2a4-a654-42c1-940b-4caa78fd7978"/>
                     <attribute id="UUID" type="guid" value="bdadb54d-1a84-4e00-8d0f-41821260cfbd"/>
 					<children>
@@ -34,7 +34,7 @@
                     <attribute id="Level" type="uint8" value="1"/>
                     <attribute id="Name" type="LSString" value="LegendarySorcery"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
-                    <attribute id="Selectors" type="LSString" value="SelectSpells(01497099-5540-4d3c-9e63-09b481313d4d,2,0,,,,AlwaysPrepared);SelectSpells(7a9418c7-5934-4a20-bb50-110ca314b969,1,0);SelectSkills(b483e956-bfb5-4a91-b088-7a610ea24ef0,2)"/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(485a68b4-c678-4888-be63-4a702efbe391,2,0,SorcererCantrip,,,AlwaysPrepared);SelectSpells(7a9418c7-5934-4a20-bb50-110ca314b969,1,0);SelectSkills(b483e956-bfb5-4a91-b088-7a610ea24ef0,2)"/>
                     <attribute id="TableUUID" type="guid" value="7ea4e2a4-a654-42c1-940b-4caa78fd7978"/>
                     <attribute id="UUID" type="guid" value="ff14f7d0-c74b-4eea-bcde-8108c869852d"/>
                 </node>
@@ -131,7 +131,7 @@
                     <attribute id="Level" type="uint8" value="7"/>
                     <attribute id="Name" type="LSString" value="LegendarySorcery"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
-                    <attribute id="Selectors" type="LSString" value="SelectSpells(01497099-5540-4d3c-9e63-09b481313d4d,2,0,,,,AlwaysPrepared);SelectSpells(5fe40622-1d3e-4cc1-8d89-e66fe51d8c5c,1,1,MySorcererSpell)"/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(485a68b4-c678-4888-be63-4a702efbe391,2,0,SorcererCantrip,,,AlwaysPrepared);SelectSpells(5fe40622-1d3e-4cc1-8d89-e66fe51d8c5c,1,1,MySorcererSpell)"/>
                     <attribute id="TableUUID" type="guid" value="7ea4e2a4-a654-42c1-940b-4caa78fd7978"/>
                     <attribute id="UUID" type="guid" value="4457acc5-f51d-4ad5-9502-e30d2c2ec7ae"/>
                 </node>
@@ -141,7 +141,7 @@
                     <attribute id="Level" type="uint8" value="7"/>
                     <attribute id="Name" type="LSString" value="LegendarySorcery"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
-					<attribute id="Selectors" type="LSString" value="SelectSpells(01497099-5540-4d3c-9e63-09b481313d4d,1,0,,,,AlwaysPrepared);SelectSpells(3105b225-2c85-408b-968e-3784b394d796,1,0)"/>
+					<attribute id="Selectors" type="LSString" value="SelectSpells(485a68b4-c678-4888-be63-4a702efbe391,1,0,SorcererCantrip,,,AlwaysPrepared);SelectSpells(3105b225-2c85-408b-968e-3784b394d796,1,0)"/>
 					<attribute id="TableUUID" type="guid" value="7ea4e2a4-a654-42c1-940b-4caa78fd7978"/>
                     <attribute id="UUID" type="guid" value="816376a3-ccdd-4ecf-a0c7-198ac5518062"/>
                 </node>
@@ -217,7 +217,7 @@
                     <attribute id="Level" type="uint8" value="12"/>
                     <attribute id="Name" type="LSString" value="LegendarySorcery"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
-                    <attribute id="Selectors" type="LSString" value="SelectSpells(01497099-5540-4d3c-9e63-09b481313d4d,2,0,,,,AlwaysPrepared);SelectSpells(1270a6db-980b-4e3b-bf26-2924da61dfd5,1,1,MySorcererSpell)"/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(485a68b4-c678-4888-be63-4a702efbe391,2,0,SorcererCantrip,,,AlwaysPrepared);SelectSpells(1270a6db-980b-4e3b-bf26-2924da61dfd5,1,1,MySorcererSpell)"/>
                     <attribute id="TableUUID" type="guid" value="7ea4e2a4-a654-42c1-940b-4caa78fd7978"/>
                     <attribute id="UUID" type="guid" value="2630dea1-53d9-4f96-b466-ba13a5625920"/>
                 </node>
@@ -305,7 +305,7 @@
                     <attribute id="Name" type="LSString" value="LegendarySorcery"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
                     <!--<attribute id="Selectors" type="LSString" value="SelectSpells(d58ac072-e079-410b-b167-a5e43723b59f,1,1,MySorcererSpell)"/>-->
-					<attribute id="Selectors" type="LSString" value="SelectSpells(01497099-5540-4d3c-9e63-09b481313d4d,1,0,,,,AlwaysPrepared);SelectSpells(1270a6db-980b-4e3b-bf26-2924da61dfd5,1,1,MySorcererSpell)"/>
+					<attribute id="Selectors" type="LSString" value="SelectSpells(485a68b4-c678-4888-be63-4a702efbe391,1,0,SorcererCantrip,,,AlwaysPrepared);SelectSpells(1270a6db-980b-4e3b-bf26-2924da61dfd5,1,1,MySorcererSpell)"/>
                     <attribute id="TableUUID" type="guid" value="7ea4e2a4-a654-42c1-940b-4caa78fd7978"/>
                     <attribute id="UUID" type="guid" value="a8153bff-53c0-404c-b463-90edc4e692a3"/>
                 </node>
@@ -365,7 +365,7 @@
 					<attribute id="Name" type="LSString" value="AidSorcery"/>
 					<attribute id="ProgressionType" type="uint8" value="1"/>
 					<attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,2,1)"/>
-					<attribute id="Selectors" type="LSString" value="SelectPassives(8494d027-1468-439c-b243-1c40d81d4c71,1,LingWu);SelectSpells(58f8006a-f37a-4f5a-a014-3d614c8a7e5a,4,0,,,,AlwaysPrepared);SelectSpells(269d1a3b-eed8-4131-8901-a562238f5289,2,0,MyClericSpell);AddSpells(e0e6f366-bb8d-4af3-b66a-c8db2d0ebf01)"/>
+					<attribute id="Selectors" type="LSString" value="SelectPassives(8494d027-1468-439c-b243-1c40d81d4c71,1,LingWu);SelectSpells(2f43a103-5bf1-4534-b14f-663decc0c525,4,0,,,,AlwaysPrepared);SelectSpells(269d1a3b-eed8-4131-8901-a562238f5289,2,0,MyClericSpell);AddSpells(e0e6f366-bb8d-4af3-b66a-c8db2d0ebf01)"/>
 					<attribute id="TableUUID" type="guid" value="fbbc6309-1fc7-4926-bdd6-8be1a8f80bc2"/>
 					<attribute id="UUID" type="guid" value="74c228c8-13fb-43e2-be3b-4a9f31799f16"/>
 				</node>
@@ -434,7 +434,7 @@
                     <attribute id="Name" type="LSString" value="AidSorcery"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
 					<attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,4);ActionResource(SpellSlot,1,5)"/>
-					<attribute id="Selectors" type="LSString" value="SelectSpells(58f8006a-f37a-4f5a-a014-3d614c8a7e5a,2,0,,,,AlwaysPrepared);SelectSpells(b73aeea5-1ff9-4cac-b61d-b5aa6dfe31c2,1,0,MyClericSpell);SelectSpells(1b8b6282-c1f2-4095-89ab-aaefdf234317,1,0,MyClericLifeDomainSpell)"/>
+					<attribute id="Selectors" type="LSString" value="SelectSpells(2f43a103-5bf1-4534-b14f-663decc0c525,2,0,,,,AlwaysPrepared);SelectSpells(b73aeea5-1ff9-4cac-b61d-b5aa6dfe31c2,1,0,MyClericSpell);SelectSpells(1b8b6282-c1f2-4095-89ab-aaefdf234317,1,0,MyClericLifeDomainSpell)"/>
                     <attribute id="TableUUID" type="guid" value="fbbc6309-1fc7-4926-bdd6-8be1a8f80bc2"/>
                     <attribute id="UUID" type="guid" value="f8a22908-a5d7-4546-bcd8-e283e0e18440"/>
                 </node>
@@ -500,7 +500,7 @@
                     <attribute id="Name" type="LSString" value="AidSorcery"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
 					<attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,9)"/>
-					<attribute id="Selectors" type="LSString" value="SelectSpells(58f8006a-f37a-4f5a-a014-3d614c8a7e5a,1,0,,,,AlwaysPrepared);SelectSpells(f8ba7b05-1237-4eaa-97fa-1d3623d5862b,1,0,MyClericSpell)"/>
+					<attribute id="Selectors" type="LSString" value="SelectSpells(2f43a103-5bf1-4534-b14f-663decc0c525,1,0,,,,AlwaysPrepared);SelectSpells(f8ba7b05-1237-4eaa-97fa-1d3623d5862b,1,0,MyClericSpell)"/>
                     <attribute id="TableUUID" type="guid" value="fbbc6309-1fc7-4926-bdd6-8be1a8f80bc2"/>
                     <attribute id="UUID" type="guid" value="401d0543-2848-48a8-98e9-633f694ba3e4"/>
                 </node>
