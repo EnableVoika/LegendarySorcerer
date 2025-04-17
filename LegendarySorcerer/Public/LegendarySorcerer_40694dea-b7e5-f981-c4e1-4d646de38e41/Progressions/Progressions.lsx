@@ -516,7 +516,7 @@
                     <attribute id="Name" type="LSString" value="AidSorcery"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="TableUUID" type="guid" value="fbbc6309-1fc7-4926-bdd6-8be1a8f80bc2"/>
-					<attribute id="Selectors" type="LSString" value="SelectSpells(f8ba7b05-1237-4eaa-97fa-1d3623d5862b,1,0,MyClericSpell)"/>
+					<!-- <attribute id="Selectors" type="LSString" value="SelectSpells(f8ba7b05-1237-4eaa-97fa-1d3623d5862b,1,0,MyClericSpell)"/> -->
 					<attribute id="UUID" type="guid" value="7f9ed8ba-122d-47b9-8c7a-2070e62eaa0a"/>
                 </node>
                 <node id="Progression">
