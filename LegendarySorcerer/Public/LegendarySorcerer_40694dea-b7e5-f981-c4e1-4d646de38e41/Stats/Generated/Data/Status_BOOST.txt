@@ -68,11 +68,6 @@ data "StatusEffect" "d0c3a6f3-b954-4e8a-b9d2-8dfc66be24ab"
 data "StatusGroups" "SG_RemovedOnRespec"
 data "OnApplyFunctors" ""
 
-
-
-
-
-
 new entry "COMPELLED_DUEL_ATTACKSORCERER"
 type "StatusData"
 data "StatusType" "BOOST"
