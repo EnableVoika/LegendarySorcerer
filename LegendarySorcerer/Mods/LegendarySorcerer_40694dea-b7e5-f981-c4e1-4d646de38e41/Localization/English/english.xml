@@ -106,7 +106,7 @@
   <content contentuid="h9eb61543g25e3g424cga58dg7b3491b5d6c2" version="1">战争体质</content>
   <content contentuid="h13454927g4dfeg49b9g87e4g970838bb5afe" version="1">生命上限额外提升[1]</content>
   <content contentuid="h92b2bdcegbedag4c38gb0f4g4586a7833f33" version="1">攻势调节:魅力</content>
-  <content contentuid="hea0efa1dgda72g46ddg8d33g222ad2379588" version="1">你可以将魅力调整值计算到攻击和伤害骰上。</content>
+  <content contentuid="hea0efa1dgda72g46ddg8d33g222ad2379588" version="1">你可以将魅力/力量取最大的调整值计算到近战攻击骰和近战伤害骰、远程武器攻击骰、远程武器伤害骰上。</content>
   <content contentuid="hba493453gfc5ag470dga7b5geca7c1c925aa" version="1">强化打击（妖火）</content>
   <content contentuid="h5028946eg2afbg417fg9583g877202d78a62" version="1">攻击具有妖火的目标丢到19也能重击。</content>
   <content contentuid="h98bdaaa8g70f9g4c67g856dg197bb5cb690c" version="1">无双挑战</content>
