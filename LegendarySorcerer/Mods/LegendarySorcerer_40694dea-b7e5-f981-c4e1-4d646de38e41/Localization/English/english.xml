@@ -110,7 +110,8 @@
   <content contentuid="hba493453gfc5ag470dga7b5geca7c1c925aa" version="1">强化打击（妖火）</content>
   <content contentuid="h5028946eg2afbg417fg9583g877202d78a62" version="1">攻击具有妖火的目标丢到19也能重击。</content>
   <content contentuid="h98bdaaa8g70f9g4c67g856dg197bb5cb690c" version="1">无双挑战</content>
-  <content contentuid="h751e7b01g91cfg45bagac62g29d83b2b0b7e" version="1">强制目标只能攻击施法者，并且对施法者的攻击具有劣势，每环额外选择一个目标。</content>
+  <content contentuid="h1a9a0bbfg2b9eg43bag861dg076417f55419" version="1">强制目标只能攻击施法者，使其对其他人的攻击处于劣势。</content>
+  <content contentuid="h751e7b01g91cfg45bagac62g29d83b2b0b7e" version="1">强制目标只能攻击施法者，使其对其他人的攻击处于劣势，每环额外选择一个目标。</content>
   <content contentuid="h4824011bg653bg4634ga93cg7e226d002cfa" version="1">施法/攻击协奏</content>
   <content contentuid="h0646b487gd7e2g44ddgb645g62878daa5fb4" version="1">受到伤害的目标会被施加“妖火”效果。</content>
   <content contentuid="h650fa020gb3f0g47dcg9467gf8340b6facda" version="1">牧师法术</content>

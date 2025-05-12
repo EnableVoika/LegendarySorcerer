@@ -692,7 +692,7 @@
 					<attribute id="ProgressionType" type="uint8" value="1"/>
 					<attribute id="Selectors" type="LSString" value="AddSpells(bfe6d470-9914-4b6a-9516-675f00cbfa37);AddSpells(448088ae-53a8-4cdd-ac1a-2bf5f02e4484)"/>
 					<attribute id="PassivesAdded" type="LSString" value="ClassPassive_Tough_AttackSorcerer;AttackSorcery_Charisma_BonusRollAndBonusDamage" />
-					<attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,1);ActionResource(Movement,15,0)"/>
+					<attribute id="Boosts" type="LSString" value="Proficiency(Shields);Proficiency(MediumArmor);Proficiency(SimpleWeapons);Proficiency(MartialWeapons);Proficiency(HeavyArmor);ActionResource(SpellSlot,1,1);ActionResource(Movement,15,0)"/>
 					<attribute id="TableUUID" type="guid" value="ed7d45a0-1a75-4067-8d73-b1c40e2329ee"/>
 					<attribute id="UUID" type="guid" value="730c3f3f-4ef7-4d26-a92b-c3aedab9f96b"/>
 				</node>
