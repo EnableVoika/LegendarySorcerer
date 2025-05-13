@@ -1,0 +1,37 @@
+local __util = require 'larian.util'
+
+function IsStrengthGreaterThan(value, entity)
+    entity = entity or context.Target
+    return ConditionResult(entity.Strength >= value)
+end
+
+function GetAbilityModifierByName(name, entity)
+    entity = entity or context.Source
+    if not entity then
+        return 0
+    end
+
+    local map = {
+        StrengthModifier = entity.StrengthModifier,
+        DexterityModifier = entity.DexterityModifier,
+        ConstitutionModifier = entity.ConstitutionModifier,
+        IntelligenceModifier = entity.IntelligenceModifier,
+        WisdomModifier = entity.WisdomModifier,
+        CharismaModifier = entity.CharismaModifier
+    }
+
+    return map[name] or 0
+end
+
+function MyGoreComparator(val1, val2)
+    return val1 - val2
+end
+
+function StrengthGreaterThanCharismaExpression()
+   local source = context.Source
+   return (MyGoreComparator(source.Strength, source.Charisma) > 0)
+end
+
+function IsStrengthGreaterThanCharisma()
+    return ConditionResult(StrengthGreaterThanCharismaExpression())
+end
