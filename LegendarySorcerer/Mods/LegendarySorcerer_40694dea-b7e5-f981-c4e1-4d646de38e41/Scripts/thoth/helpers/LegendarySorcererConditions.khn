@@ -36,12 +36,6 @@ function IsStrengthGreaterThanCharisma()
     return ConditionResult(StrengthGreaterThanCharismaExpression())
 end
 
-function isMainHandWeapon()
-    entity = entity or context.Source
-    weaponEntity = GetActiveWeapon(entity, true)
-    return ConditionResult(weaponEntity.IsValid)
-end
-
 function needGongShiTiaoJie()
     local entity = context.Source
     local notStronger = not StrengthGreaterThanCharismaExpression()

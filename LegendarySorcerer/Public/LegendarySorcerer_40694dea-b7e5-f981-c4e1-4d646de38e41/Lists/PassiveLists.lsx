@@ -14,6 +14,12 @@
                     <attribute id="Passives" type="LSString" value="CastSorcery_FireDamageEnhance_Passive,CastSorcery_ColdDamageEnhance_Passive,CastSorcery_PoisonDamageEnhance_Passive,CastSorcery_LightningDamageEnhance_Passive,CastSorcery_ThunderDamageEnhance_Passive,CastSorcery_AcidDamageEnhance_Passive,CastSorcery_NecroticDamageEnhance_Passive;CastSorcery_ForceDamageEnhance_Passive"/>
                     <attribute id="UUID" type="guid" value="1042ff0d-61c3-47cb-ba32-55b9de8e370f"/>
                 </node>
+				<!-- 总进度2级获得+1属性被动，弥补比原职业缺少1属性的缺点 -->
+				<node id="PassiveList">
+					<attribute id="Name" type="FixedString" value="LegendarySorcerer_Level_2_Select_Ability_Add_1_Passive"/>
+					<attribute id="Passives" type="LSString" value="LegendarySorcerer_AbilityStrength_Add_1,LegendarySorcerer_AbilityDexterity_Add_1,LegendarySorcerer_AbilityConstitution_Add_1,LegendarySorcerer_AbilityIntelligence_Add_1,LegendarySorcerer_AbilityWisdom_Add_1,LegendarySorcerer_AbilityCharisma_Add_1"/>
+					<attribute id="UUID" type="guid" value="42164d8d-0777-4846-b68f-80f58d17b7ba"/>
+				</node>
             </children>
         </node>
     </region>

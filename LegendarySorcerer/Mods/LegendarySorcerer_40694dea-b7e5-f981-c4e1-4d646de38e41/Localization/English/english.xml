@@ -190,6 +190,20 @@
   <content contentuid="h87453bb0g5839g405bg8ce6g79140c45e10e" version="1">每回合受到[1]。</content>
   <content contentuid="h34c1e343gf700g4c48gb47ag9022b077478d" version="1">灵光治愈</content>
   <content contentuid="h1bfae395g1453g45efga2dfgff50086e2292" version="1">每回合恢复[1]</content>
-	<content contentuid="h7021b759g2485g40b6g9347g5418343d16de" version="1">奥术充能</content>
-	<content contentuid="hf27484bbg1a91g407dg838fgad67ea632709" version="1">作为传奇术士，你每一次长休之后，你都可以进行一次冥想恢复部分法术环。</content>
+  <content contentuid="h7021b759g2485g40b6g9347g5418343d16de" version="1">奥术充能</content>
+  <content contentuid="hf27484bbg1a91g407dg838fgad67ea632709" version="1">作为传奇术士，你每一次长休之后，你都可以进行一次冥想恢复部分法术环。</content>
+  <content contentuid="h1d307256g407cg456agb52ag77624084e68b" version="1">力量+1</content>
+  <content contentuid="hbc346c95g0c70g4d0aga38ag099ad603b726" version="1">力量+[1]</content>
+  <content contentuid="hf8ae1099g4dceg47cdg9ec0ge95695007257" version="1">敏捷+1</content>
+  <content contentuid="hc8ed23ddg4c39g4b4eg8afagb1488b326426" version="1">敏捷+[1]</content>
+  <content contentuid="h50b58f11geb11g482aga359gdb98f98a2455" version="1">体质+1</content>
+  <content contentuid="hd4839561g1eb3g446bg968bg32800f85c7f7" version="1">体质+[1]</content>
+  <content contentuid="hc054cff1g9694g405aga31fg308196ad5ced" version="1">智力+1</content>
+  <content contentuid="h5802174fg04d3g40bfg99fdg2f6a8f46e6ea" version="1">智力+[1]</content>
+  <content contentuid="h22863d16g7678g4454ga8bdg8bd4892dda21" version="1">感知+1</content>
+  <content contentuid="h554d67a5g3ad7g4d0eg976ag690a45ef88fd" version="1">感知+[1]</content>
+  <content contentuid="hb8602bccgad5fg4239gb075g56549bc3663d" version="1">魅力+1</content>
+  <content contentuid="h27b21866g5136g48a7gb002g514d6a094df5" version="1">魅力+[1]</content>
+  <content contentuid="h908df490g4e73g4288gb9b6ge5f113f7c523" version="1">属性提升</content>
+  <content contentuid="h22301561g2817g44e3g9763g1f0a564870c3" version="1">选择一项属性+1</content>
 </contentList>

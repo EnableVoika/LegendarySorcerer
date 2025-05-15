@@ -4,6 +4,13 @@
     <region id="ProgressionDescriptions">
         <node id="root">
             <children>
+				<!-- 总进度中的2级+1属性被动描述 -->
+				<node id="ProgressionDescription">
+					<attribute id="Description" type="TranslatedString" handle="h22301561g2817g44e3g9763g1f0a564870c3" version="1"/>
+					<attribute id="DisplayName" type="TranslatedString" handle="h908df490g4e73g4288gb9b6ge5f113f7c523" version="1"/>
+					<attribute id="SelectorId" type="FixedString" value="LegendarySorcererAbilityAddOne"/>
+					<attribute id="UUID" type="guid" value="a4fff1ca-bfa7-4bb3-8567-4ba3f4d98caa"/>
+				</node>
 				<!-- 支援术士领悟生命被动描述 -->
                 <node id="ProgressionDescription">
                     <attribute id="Description" type="TranslatedString" handle="h732ddf85gecf3gabe3gf725gf8bbc1276e0e" version="1"/>

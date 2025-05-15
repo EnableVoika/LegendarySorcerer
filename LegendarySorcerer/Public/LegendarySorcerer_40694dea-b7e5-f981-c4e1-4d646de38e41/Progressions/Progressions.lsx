@@ -44,7 +44,7 @@
                     <attribute id="Level" type="uint8" value="2"/>
                     <attribute id="Name" type="LSString" value="LegendarySorcery"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
-                    <attribute id="Selectors" type="LSString" value="SelectSpells(92c4751f-6255-4f67-822c-a75d53830b27,1,1,MySorcererSpell)"/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(92c4751f-6255-4f67-822c-a75d53830b27,1,1,MySorcererSpell);SelectPassives(42164d8d-0777-4846-b68f-80f58d17b7ba,1,LegendarySorcererAbilityAddOne)"/>
                     <attribute id="TableUUID" type="guid" value="7ea4e2a4-a654-42c1-940b-4caa78fd7978"/>
                     <attribute id="UUID" type="guid" value="830de027-03db-407a-aa7b-167905700310"/>
                 </node>
