@@ -534,3 +534,12 @@ data "Icon" "PassiveFeature_Generic_Magical"
 data "Properties" "IsHidden"
 data "Boosts" "Ability(Charisma, 1)"
 
+new entry "Shout_Final_Confrontation_RegainHitPoints_Passive"
+type "PassiveData"
+data "DisplayName" "h90fed009g64ceg4385gac67g40f36db8b4e3;1"
+data "Description" "heed09ce0g7c11g4656g9a98g0ea731efa727;1"
+data "DescriptionParams" "RegainHitPoints(1d6)"
+data "StatsFunctorContext" "OnDamage"
+data "Conditions" "IsAttack() and not IsMiss() and not Item()"
+data "StatsFunctors" "RegainHitPoints(SELF, 1d6)"
+

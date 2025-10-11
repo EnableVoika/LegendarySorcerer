@@ -206,4 +206,8 @@
   <content contentuid="h27b21866g5136g48a7gb002g514d6a094df5" version="1">魅力+[1]</content>
   <content contentuid="h908df490g4e73g4288gb9b6ge5f113f7c523" version="1">属性提升</content>
   <content contentuid="h22301561g2817g44e3g9763g1f0a564870c3" version="1">选择一项属性+1</content>
+  <content contentuid="h4334735dg6988g4c39g80fdg3ebaa1c2977f" version="1">终极对决</content>
+  <content contentuid="h97cc28acgb7f0g4acfgb547ga2b9d15c1890" version="1">进入最终的决战状态, 额外造成[1]和[2], 自己的攻击会恢复[3], 自己获得所有属性的抗性, 自身获得[4]临时生命值, 自身获得额外一个动作、附赠动作, 重击骰-[5]可叠加, 你不会陷入恐慌、魅惑、定身、震慑等负面状态, 回合开始时自动清除身上的负面状态, 持续[6]回合。</content>
+  <content contentuid="h90fed009g64ceg4385gac67g40f36db8b4e3" version="1">战斗疤痕</content>
+  <content contentuid="heed09ce0g7c11g4656g9a98g0ea731efa727" version="1">你的攻击命中敌人, 会恢复自身[1]。</content>
 </contentList>
