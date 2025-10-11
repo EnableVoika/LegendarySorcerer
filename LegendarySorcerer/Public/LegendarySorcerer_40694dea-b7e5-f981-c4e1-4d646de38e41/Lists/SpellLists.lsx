@@ -27,6 +27,12 @@
 					<attribute id="Spells" type="LSString" value="Target_Vulnerable_Physics"/>
 					<attribute id="UUID" type="guid" value="edf8d118-70f5-45f5-9f02-b122670ac40a"/>
 				</node>
+                <!-- 战斗术士17级添加法术 -->
+				<node id="SpellList">
+					<attribute id="Name" type="FixedString" value="AttackSorcery_Lv17_Add_Spell"/>
+					<attribute id="Spells" type="LSString" value="Shout_Final_Confrontation_LongRest"/>
+					<attribute id="UUID" type="guid" value="ae495b5c-2310-4262-b5d9-5b52aa5aaf1c"/>
+				</node>
 				<node id="SpellList">
                     <attribute id="Name" type="FixedString" value="AidSorcery_Level_1_Select_Cantrips"/>
                     <attribute id="Spells" type="LSString" value="Shout_Thaumaturgy;Target_SacredFlame;Target_Guidance;Target_Resistance;Target_Light;Shout_BladeWard;Shout_ProduceFlame;Projectile_PoisonSpray;Shout_Shillelagh;Target_ThornWhip"/>
