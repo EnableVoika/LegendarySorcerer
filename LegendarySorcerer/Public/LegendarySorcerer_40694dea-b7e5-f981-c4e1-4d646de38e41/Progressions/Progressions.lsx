@@ -788,6 +788,7 @@
                     <attribute id="Level" type="uint8" value="12"/>
                     <attribute id="Name" type="LSString" value="AttackSorcery"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(ae495b5c-2310-4262-b5d9-5b52aa5aaf1c)"/>
 					<attribute id="TableUUID" type="guid" value="ed7d45a0-1a75-4067-8d73-b1c40e2329ee"/>
                     <attribute id="UUID" type="guid" value="4b850e32-998c-4610-9934-ed670fc893cf"/>
                 </node>
@@ -826,7 +827,6 @@
                     <attribute id="Name" type="LSString" value="AttackSorcery"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
 					<attribute id="PassivesAdded" type="LSString" value=""/>
-                    <attribute id="Selectors" type="LSString" value="AddSpells(ae495b5c-2310-4262-b5d9-5b52aa5aaf1c)"/>
 					<attribute id="TableUUID" type="guid" value="ed7d45a0-1a75-4067-8d73-b1c40e2329ee"/>
                     <attribute id="UUID" type="guid" value="d9361d7e-d843-4607-893f-bb554c61a159"/>
                 </node>
